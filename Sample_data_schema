@@ -1,0 +1,60 @@
+-- Core entity tables
+CREATE TABLE Dishes (
+    DishID INT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Cuisine VARCHAR(100),
+    Course VARCHAR(100)
+);
+
+CREATE TABLE Recipes (
+    RecipeID INT PRIMARY KEY,
+    DishID INT,
+    Name VARCHAR(255) NOT NULL,
+    TimeRequired INT,  -- in minutes
+    Instructions TEXT,
+    Portions INT,
+    FOREIGN KEY (DishID) REFERENCES Dishes(DishID)
+);
+
+CREATE TABLE Ingredients (
+    IngredientID INT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Category VARCHAR(100),
+    Calories INT
+);
+
+CREATE TABLE Chefs (
+    ChefID INT PRIMARY KEY,
+    Username VARCHAR(50) UNIQUE NOT NULL,
+    Age INT
+);
+
+-- Relationship tables
+CREATE TABLE RecipeIngredients (
+    RecipeID INT,
+    IngredientID INT,
+    Amount DECIMAL(10,2),
+    Unit VARCHAR(20),
+    PRIMARY KEY (RecipeID, IngredientID),
+    FOREIGN KEY (RecipeID) REFERENCES Recipes(RecipeID),
+    FOREIGN KEY (IngredientID) REFERENCES Ingredients(IngredientID)
+);
+
+CREATE TABLE Reviews (
+    ChefID INT,
+    RecipeID INT,
+    Rating INT CHECK (Rating BETWEEN 1 AND 5),
+    DateReviewed DATE,
+    PRIMARY KEY (ChefID, RecipeID),
+    FOREIGN KEY (ChefID) REFERENCES Chefs(ChefID),
+    FOREIGN KEY (RecipeID) REFERENCES Recipes(RecipeID)
+);
+
+CREATE TABLE ChefFriends (
+    ChefID1 INT,
+    ChefID2 INT,
+    FriendsSince DATE,
+    PRIMARY KEY (ChefID1, ChefID2),
+    FOREIGN KEY (ChefID1) REFERENCES Chefs(ChefID),
+    FOREIGN KEY (ChefID2) REFERENCES Chefs(ChefID)
+);
