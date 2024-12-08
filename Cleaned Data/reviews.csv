@@ -1,4 +1,4 @@
-chef_id,recipe_id,rating,date
+ChefID,RecipeID,Rating,Date
 0,416,2,2023-06-14
 0,638,3,2023-11-02
 0,811,2,2023-11-27

@@ -54,3 +54,16 @@ Check out the 'Cleaned Data' directory.
   Rating is between 1 to 5.
 
 - We havent included `Cookbooks` yet, but that should be pretty straightforward. I will get to it tmrw.
+
+## Arushi Update - 12/08
+
+These are the final tables I have - 
+
+- `Dishes (DishID, Name, Type)`
+- `Cookbooks (CookbookID, Title, Author, PublicationDate)`
+- `Recipes (RecipeID, Title, Description, Servings, Steps, DishID, CookbookID)`
+- `Ingredients (IngredientID, Name, Category, Calories)`
+- `Requires (RecipeID, IngredientID, Details, Quantity, Unit)`
+- `Chefs (ChefID, Username, Age, Location)`
+- `Reviews (ChefID, RecipeID, Rating, Date)`
+- `Friends (ChefID1, ChefID2, FriendsSince)`

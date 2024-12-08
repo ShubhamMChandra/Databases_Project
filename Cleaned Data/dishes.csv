@@ -1,376 +1,376 @@
-dishid,dish_name
-0,Breakfast
-1,Jambalaya
-2,Salad
-3,Zucchini dish
-4,Stew
-5,Brittle
-6,Casserole
-7,Omelette
-8,Chowder
-9,Sloppy Joes
-10,Muffins
-11,Cookies
-12,Steak
-13,Ravioli
-14,Ice Cream
-15,Soup
-16,Fondue
-17,Plantains
-18,Pickles
-19,Casseroles
-20,Spice Blend
-21,Tarts
-22,Lasagna
-23,Dessert
-24,Lamb
-25,Biscuits
-26,Pizza
-27,Cakes
-28,Stir-Fry
-29,Burgers
-30,S'mores
-31,Appetizer
-32,Cheeseball
-33,Tiramisu
-34,Cocktail
-35,Cornbread
-36,Mushrooms
-37,Potatoes
-38,Mashed Potatoes
-39,Sauce
-40,Dip
-41,BBQ Sauce
-42,Pound Cake
-43,Green Beans
-44,Subs
-45,Carrots
-46,Sponge Cake
-47,Pilaf
-48,Chops
-49,Fish
-50,Enchiladas
-51,Rice
-52,Macaroni
-53,Chili
-54,Grilled Cheese
-55,Cake
-56,Pie
-57,Meatloaf
-58,Pasta
-59,Shrikhand
-60,Custard
-61,Scones
-62,Yogurt
-63,Side Dish
-64,Iced Coffee
-65,Bars
-66,Bread
-67,Pot Roast
-68,Topping
-69,Noodles
-70,Jam
-71,Salsa
-72,Sandwiches
-73,Vegetable Dish
-74,Cutlets
-75,Scallops
-76,Punch
-77,Veggie Dip
-78,Sandwich
-79,Snacks
-80,Pastries
-81,Prawn Cakes
-82,Meatballs
-83,Noodle Dish
-84,Muffin topping
-85,Pasta Dish
-86,Chicken Thighs
-87,Wings
-88,Parmesan
-89,Zucchini Bread
-90,Nuts
-91,Quesadilla
-92,Pad Thai
-93,Spareribs
-94,Panini
-95,Curry
-96,Stir Fry
-97,Shortbread
-98,Fishcakes
-99,Couscous
-100,Quiche
-101,Salmon
-102,Tea
-103,Fried Rice
-104,Poultry
-105,Snack Mix
-106,Cupcakes
-107,Wiches
-108,Crepes
-109,Bread Bowl
-110,Quesadillas
-111,Chicken
-112,Flatbread.
-113,Filling
-114,Pudding
-115,Omelet
-116,Chicken Cuts
-117,Chutney
-118,Bhaji
-119,Pancakes
-120,Pizza Sauce
-121,Tacos
-122,Greens
-123,Raviolini
-124,Crabs
-125,Smoothies
-126,Pizza Crust
-127,Hummus
-128,Hash
-129,Strata
-130,Spaghetti
-131,Frittata
-132,Coffee
-133,Chicken Parmesan
-134,Oatmeal Cake
-135,Sausage
-136,Brownies
-137,Rösti
-138,Provolone
-139,Potato Casserole
-140,Tart
-141,Granola Bars
-142,Soap
-143,Gyros
-144,Dessert
-145,Cooler
-146,Mousse
-147,Egg Rolls
-148,Frosting
-149,Burritos
-150,Wafers
-151,Dumplings
-152,Crackers
-153,Tomatoes
-154,Quiches
-155,Pulled Pork
-156,Wrap
-157,Hamburgers
-158,Pennucci
-159,Sweet Potato Casserole
-160,Pumpkin
-161,Gelato
-162,Turnover
-163,Brats
-164,Skillet
-165,Butter
-166,Cream Pie
-167,Lemonade
-168,Goulash
-169,Dressing
-170,Taters
-171,Beets
-172,Trail Mix
-173,Energy Bar
-174,Shells
-175,Vada
-176,Pork
-177,Stuffed Cabbage.
-178,Ribs
-179,Fruit Cups
-180,Curry Paste
-181,Rubs
-182,Cheesecake
-183,Tostadas
-184,Eggplant
-185,Conserve
-186,Fudge
-187,Toast
-188,Tea Sandwiches
-189,Duck
-190,Stuffing
-191,Macarons
-192,Rice Bowl
-193,Deviled Eggs
-194,Sandwich Filling
-195,Cookie
-196,Pasta dish
-197,Rice Dish
-198,Roast
-199,Cocoa
-200,Bruschetta
-201,Appetizers
-202,Barbecue Sauce
-203,Risotto
-204,Rice Balls
-205,Bacon
-206,Waffles
-207,Jams
-208,Mocktail
-209,Strawberries
-210,Peppers
-211,Souffle
-212,Oatmeal
-213,Kabobs
-214,Mash
-215,Smoothie
-216,Chili Rellenos
-217,Squash Bowls
-218,Eggs
-219,Barbecue
-220,Canapés
-221,Savory Pancake
-222,Dip.
-223,Kebab
-224,Bread Pudding
-225,Torte
-226,Sorbet
-227,Sausages
-228,Gnocchi
-229,Veggie Bowl
-230,French Toast
-231,Salmon Roll
-232,Beans
-233,Catfish
-234,Stromboli
-235,Biscotti
-236,Salt
-237,Lamb Chops
-238,Potato Dip
-239,Popcorn
-240,Flatbread
-241,Hamburger
-242,Dosa
-243,Perogies
-244,Lamb Koftas
-245,Chicken Casserole
-246,Snack
-247,Cider
-248,Macaroons
-249,Vegetables
-250,Cola
-251,Fritters
-252,Snow Peas
-253,London Broil
-254,French Bread
-255,Biscuit
-256,Rusks
-257,Side dish
-258,Eggplant Parmesan
-259,Cookie Bars
-260,Stuffed Mushrooms
-261,Noodle dish
-262,Gumbo
-263,Squash
-264,Pork Chops
-265,Beef Stew
-266,Truffles
-267,Dipping Sauce
-268,Gravy
-269,Tartlets
-270,Toffee
-271,Stuffed Peppers
-272,Glaze
-273,Tortillas
-274,Onion Rings
-275,Chicken Tagine
-276,Wraps
-277,Fondant
-278,Pork Roast
-279,Steaks
-280,Beef
-281,Chicken Breasts
-282,Roti
-283,Nachos
-284,Focaccia
-285,Gratin
-286,Meringues
-287,Corned Beef and Cabbage Casserole - Shepherd's Pies
-288,Bok Choy
-289,Meatpie
-290,Chicken Scampi
-291,Pinwheels.
-292,Marmalade
-293,Scrambled Eggs
-294,Fettuccine
-295,Fajitas
-296,Cabbage Rolls
-297,Potato Puffs
-298,Coffee Cake
-299,Burrito Filling
-300,Shrimp
-301,Fritter
-302,Sundaes
-303,Puddings
-304,Chilaquiles
-305,Chicken Packets
-306,Pikelets
-307,Empanadas
-308,Medallions
-309,Ragu
-310,Prawns
-311,Glassware
-312,Fish Cakes
-313,Kebabs
-314,Buns
-315,Frittatas
-316,Bar Cookies
-317,Fruitcake
-318,Red Cabbage
-319,Pretzels
-320,Curd
-321,Veggie Side
-322,Raita.
-323,Gingerbread
-324,Fruit Salads
-325,Halva
-326,Panzanella
-327,Polenta
-328,Fingers
-329,Roast Pork
-330,Salads
-331,Noodle Soup
-332,Chicken Tenders
-333,Hot Chocolate
-334,Shake
-335,Beef Stir-Fry
-336,Panna Cotta
-337,Paella
-338,Dressings
-339,Spread
-340,Confiture
-341,Corn
-342,Tapenade
-343,Hashbrowns
-344,Juice
-345,Marinade
-346,Mints
-347,Chocolate Spread
-348,Hot Dog
-349,Milkshake
-350,Sausage Pizza
-351,Custard Pie
-352,Cobbler
-353,Loaf
-354,Sushi
-355,Eggplants
-356,Biryani
-357,Bell Peppers
-358,Scaloppine
-359,Onion Fritters
-360,Sate
-361,Short Ribs
-362,Satay
-363,Polenta Pie
-364,Pinwheels
-365,Chicken Dish
-366,Flounder
-367,Cereal Treats
-368,Bananas
-369,Ham
-370,Onions
-371,Beef Stroganoff
-372,Fattah
-373,Lentil Curry
-374,Chicken Cutlets
+DishID,Name,Type
+0,Breakfast,Breakfast
+1,Jambalaya,Entree
+2,Salad,Side
+3,Zucchini dish,Other
+4,Stew,Other
+5,Brittle,Other
+6,Casserole,Other
+7,Omelette,Breakfast
+8,Chowder,Soup
+9,Sloppy Joes,Other
+10,Muffins,Other
+11,Cookies,Snack
+12,Steak,Entree
+13,Ravioli,Other
+14,Ice Cream,Dessert
+15,Soup,Soup
+16,Fondue,Other
+17,Plantains,Other
+18,Pickles,Other
+19,Casseroles,Other
+20,Spice Blend,Other
+21,Tarts,Other
+22,Lasagna,Other
+23,Dessert,Dessert
+24,Lamb,Other
+25,Biscuits,Other
+26,Pizza,Other
+27,Cakes,Dessert
+28,Stir-Fry,Other
+29,Burgers,Other
+30,S'mores,Other
+31,Appetizer,Appetizer
+32,Cheeseball,Other
+33,Tiramisu,Other
+34,Cocktail,Other
+35,Cornbread,Side
+36,Mushrooms,Other
+37,Potatoes,Other
+38,Mashed Potatoes,Side
+39,Sauce,Other
+40,Dip,Other
+41,BBQ Sauce,Other
+42,Pound Cake,Dessert
+43,Green Beans,Other
+44,Subs,Other
+45,Carrots,Other
+46,Sponge Cake,Dessert
+47,Pilaf,Other
+48,Chops,Other
+49,Fish,Other
+50,Enchiladas,Other
+51,Rice,Other
+52,Macaroni,Other
+53,Chili,Other
+54,Grilled Cheese,Other
+55,Cake,Dessert
+56,Pie,Dessert
+57,Meatloaf,Other
+58,Pasta,Other
+59,Shrikhand,Other
+60,Custard,Other
+61,Scones,Other
+62,Yogurt,Other
+63,Side Dish,Side
+64,Iced Coffee,Beverage
+65,Bars,Other
+66,Bread,Side
+67,Pot Roast,Other
+68,Topping,Other
+69,Noodles,Other
+70,Jam,Other
+71,Salsa,Other
+72,Sandwiches,Other
+73,Vegetable Dish,Other
+74,Cutlets,Other
+75,Scallops,Other
+76,Punch,Other
+77,Veggie Dip,Other
+78,Sandwich,Other
+79,Snacks,Snack
+80,Pastries,Other
+81,Prawn Cakes,Dessert
+82,Meatballs,Other
+83,Noodle Dish,Other
+84,Muffin topping,Other
+85,Pasta Dish,Other
+86,Chicken Thighs,Other
+87,Wings,Other
+88,Parmesan,Other
+89,Zucchini Bread,Side
+90,Nuts,Other
+91,Quesadilla,Other
+92,Pad Thai,Other
+93,Spareribs,Other
+94,Panini,Other
+95,Curry,Entree
+96,Stir Fry,Other
+97,Shortbread,Side
+98,Fishcakes,Dessert
+99,Couscous,Other
+100,Quiche,Other
+101,Salmon,Other
+102,Tea,Beverage
+103,Fried Rice,Other
+104,Poultry,Other
+105,Snack Mix,Snack
+106,Cupcakes,Dessert
+107,Wiches,Other
+108,Crepes,Other
+109,Bread Bowl,Side
+110,Quesadillas,Other
+111,Chicken,Other
+112,Flatbread.,Side
+113,Filling,Other
+114,Pudding,Dessert
+115,Omelet,Other
+116,Chicken Cuts,Other
+117,Chutney,Other
+118,Bhaji,Other
+119,Pancakes,Breakfast
+120,Pizza Sauce,Other
+121,Tacos,Other
+122,Greens,Side
+123,Raviolini,Other
+124,Crabs,Other
+125,Smoothies,Other
+126,Pizza Crust,Other
+127,Hummus,Other
+128,Hash,Other
+129,Strata,Other
+130,Spaghetti,Other
+131,Frittata,Other
+132,Coffee,Beverage
+133,Chicken Parmesan,Other
+134,Oatmeal Cake,Dessert
+135,Sausage,Other
+136,Brownies,Dessert
+137,Rösti,Other
+138,Provolone,Other
+139,Potato Casserole,Other
+140,Tart,Other
+141,Granola Bars,Other
+142,Soap,Other
+143,Gyros,Other
+144,Dessert,Dessert
+145,Cooler,Other
+146,Mousse,Other
+147,Egg Rolls,Other
+148,Frosting,Other
+149,Burritos,Other
+150,Wafers,Other
+151,Dumplings,Other
+152,Crackers,Other
+153,Tomatoes,Other
+154,Quiches,Other
+155,Pulled Pork,Other
+156,Wrap,Other
+157,Hamburgers,Other
+158,Pennucci,Other
+159,Sweet Potato Casserole,Other
+160,Pumpkin,Other
+161,Gelato,Other
+162,Turnover,Other
+163,Brats,Other
+164,Skillet,Other
+165,Butter,Other
+166,Cream Pie,Dessert
+167,Lemonade,Other
+168,Goulash,Other
+169,Dressing,Other
+170,Taters,Other
+171,Beets,Other
+172,Trail Mix,Other
+173,Energy Bar,Other
+174,Shells,Other
+175,Vada,Other
+176,Pork,Other
+177,Stuffed Cabbage.,Other
+178,Ribs,Other
+179,Fruit Cups,Other
+180,Curry Paste,Entree
+181,Rubs,Other
+182,Cheesecake,Dessert
+183,Tostadas,Other
+184,Eggplant,Other
+185,Conserve,Other
+186,Fudge,Other
+187,Toast,Other
+188,Tea Sandwiches,Beverage
+189,Duck,Other
+190,Stuffing,Other
+191,Macarons,Other
+192,Rice Bowl,Other
+193,Deviled Eggs,Other
+194,Sandwich Filling,Other
+195,Cookie,Snack
+196,Pasta dish,Other
+197,Rice Dish,Other
+198,Roast,Other
+199,Cocoa,Other
+200,Bruschetta,Appetizer
+201,Appetizers,Appetizer
+202,Barbecue Sauce,Other
+203,Risotto,Other
+204,Rice Balls,Other
+205,Bacon,Other
+206,Waffles,Breakfast
+207,Jams,Other
+208,Mocktail,Other
+209,Strawberries,Other
+210,Peppers,Other
+211,Souffle,Other
+212,Oatmeal,Other
+213,Kabobs,Other
+214,Mash,Other
+215,Smoothie,Other
+216,Chili Rellenos,Other
+217,Squash Bowls,Other
+218,Eggs,Other
+219,Barbecue,Other
+220,Canapés,Other
+221,Savory Pancake,Breakfast
+222,Dip.,Other
+223,Kebab,Other
+224,Bread Pudding,Dessert
+225,Torte,Other
+226,Sorbet,Other
+227,Sausages,Other
+228,Gnocchi,Other
+229,Veggie Bowl,Other
+230,French Toast,Other
+231,Salmon Roll,Other
+232,Beans,Other
+233,Catfish,Other
+234,Stromboli,Other
+235,Biscotti,Other
+236,Salt,Other
+237,Lamb Chops,Other
+238,Potato Dip,Other
+239,Popcorn,Snack
+240,Flatbread,Side
+241,Hamburger,Other
+242,Dosa,Other
+243,Perogies,Other
+244,Lamb Koftas,Other
+245,Chicken Casserole,Other
+246,Snack,Snack
+247,Cider,Other
+248,Macaroons,Other
+249,Vegetables,Other
+250,Cola,Other
+251,Fritters,Other
+252,Snow Peas,Other
+253,London Broil,Other
+254,French Bread,Side
+255,Biscuit,Other
+256,Rusks,Other
+257,Side dish,Side
+258,Eggplant Parmesan,Other
+259,Cookie Bars,Snack
+260,Stuffed Mushrooms,Other
+261,Noodle dish,Other
+262,Gumbo,Other
+263,Squash,Other
+264,Pork Chops,Other
+265,Beef Stew,Other
+266,Truffles,Other
+267,Dipping Sauce,Other
+268,Gravy,Other
+269,Tartlets,Other
+270,Toffee,Other
+271,Stuffed Peppers,Other
+272,Glaze,Other
+273,Tortillas,Other
+274,Onion Rings,Other
+275,Chicken Tagine,Other
+276,Wraps,Other
+277,Fondant,Other
+278,Pork Roast,Other
+279,Steaks,Entree
+280,Beef,Other
+281,Chicken Breasts,Other
+282,Roti,Other
+283,Nachos,Other
+284,Focaccia,Other
+285,Gratin,Other
+286,Meringues,Other
+287,Corned Beef and Cabbage Casserole - Shepherd's Pies,Dessert
+288,Bok Choy,Other
+289,Meatpie,Dessert
+290,Chicken Scampi,Other
+291,Pinwheels.,Other
+292,Marmalade,Other
+293,Scrambled Eggs,Other
+294,Fettuccine,Other
+295,Fajitas,Other
+296,Cabbage Rolls,Other
+297,Potato Puffs,Other
+298,Coffee Cake,Dessert
+299,Burrito Filling,Other
+300,Shrimp,Other
+301,Fritter,Other
+302,Sundaes,Other
+303,Puddings,Dessert
+304,Chilaquiles,Other
+305,Chicken Packets,Other
+306,Pikelets,Other
+307,Empanadas,Other
+308,Medallions,Other
+309,Ragu,Other
+310,Prawns,Other
+311,Glassware,Other
+312,Fish Cakes,Dessert
+313,Kebabs,Other
+314,Buns,Other
+315,Frittatas,Other
+316,Bar Cookies,Snack
+317,Fruitcake,Dessert
+318,Red Cabbage,Other
+319,Pretzels,Other
+320,Curd,Other
+321,Veggie Side,Side
+322,Raita.,Other
+323,Gingerbread,Side
+324,Fruit Salads,Side
+325,Halva,Other
+326,Panzanella,Other
+327,Polenta,Other
+328,Fingers,Other
+329,Roast Pork,Other
+330,Salads,Side
+331,Noodle Soup,Soup
+332,Chicken Tenders,Other
+333,Hot Chocolate,Other
+334,Shake,Other
+335,Beef Stir-Fry,Other
+336,Panna Cotta,Other
+337,Paella,Other
+338,Dressings,Other
+339,Spread,Other
+340,Confiture,Other
+341,Corn,Other
+342,Tapenade,Other
+343,Hashbrowns,Other
+344,Juice,Beverage
+345,Marinade,Other
+346,Mints,Other
+347,Chocolate Spread,Other
+348,Hot Dog,Other
+349,Milkshake,Other
+350,Sausage Pizza,Other
+351,Custard Pie,Dessert
+352,Cobbler,Other
+353,Loaf,Other
+354,Sushi,Other
+355,Eggplants,Other
+356,Biryani,Other
+357,Bell Peppers,Other
+358,Scaloppine,Other
+359,Onion Fritters,Other
+360,Sate,Other
+361,Short Ribs,Other
+362,Satay,Other
+363,Polenta Pie,Dessert
+364,Pinwheels,Other
+365,Chicken Dish,Other
+366,Flounder,Other
+367,Cereal Treats,Other
+368,Bananas,Other
+369,Ham,Other
+370,Onions,Other
+371,Beef Stroganoff,Other
+372,Fattah,Other
+373,Lentil Curry,Entree
+374,Chicken Cutlets,Other
