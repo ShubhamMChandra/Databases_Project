@@ -1,0 +1,377 @@
+DishID,Name,Type,Cuisine
+0,Breakfast,Breakfast,international
+1,Jambalaya,Entree,Cajun/Creole (American)
+2,Salad,Side,international
+3,Zucchini dish,Other,international
+4,Stew,Other,international
+5,Brittle,Other,international
+6,Casserole,Other,American
+7,Omelette,Breakfast,French
+8,Chowder,Soup,American
+9,Sloppy Joes,Other,American
+10,Muffins,Other,American
+11,Cookies,Snack,international
+12,Steak,Entree,international
+13,Ravioli,Other,Italian
+14,Ice Cream,Dessert,international
+15,Soup,Soup,international
+16,Fondue,Other,Swiss
+17,Plantains,Other,Latin American
+18,Pickles,Other,international
+19,Casseroles,Other,American
+20,Spice Blend,Other,international
+21,Tarts,Other,French
+22,Lasagna,Other,Italian
+23,Dessert,Dessert,international
+24,Lamb,Other,international
+25,Biscuits,Other,international
+26,Pizza,Other,Italian
+27,Cakes,Dessert,international
+28,Stir-Fry,Other,Chinese
+29,Burgers,Other,American
+30,S'mores,Other,American
+31,Appetizer,Appetizer,international
+32,Cheeseball,Other,American
+33,Tiramisu,Other,Italian
+34,Cocktail,Other,international
+35,Cornbread,Side,American
+36,Mushrooms,Other,international
+37,Potatoes,Other,international
+38,Mashed Potatoes,Side,international
+39,Sauce,Other,international
+40,Dip,Other,international
+41,BBQ Sauce,Other,American
+42,Pound Cake,Dessert,international
+43,Green Beans,Other,international
+44,Subs,Other,American
+45,Carrots,Other,international
+46,Sponge Cake,Dessert,international
+47,Pilaf,Other,Middle Eastern
+48,Chops,Other,international
+49,Fish,Other,international
+50,Enchiladas,Other,Mexican
+51,Rice,Other,international
+52,Macaroni,Other,international
+53,Chili,Other,American (Tex-Mex)
+54,Grilled Cheese,Other,American
+55,Cake,Dessert,international
+56,Pie,Dessert,international
+57,Meatloaf,Other,American
+58,Pasta,Other,Italian
+59,Shrikhand,Other,Indian
+60,Custard,Other,international
+61,Scones,Other,British
+62,Yogurt,Other,international
+63,Side Dish,Side,international
+64,Iced Coffee,Beverage,international
+65,Bars,Other,international
+66,Bread,Side,international
+67,Pot Roast,Other,American
+68,Topping,Other,international
+69,Noodles,Other,international
+70,Jam,Other,international
+71,Salsa,Other,Mexican
+72,Sandwiches,Other,international
+73,Vegetable Dish,Other,international
+74,Cutlets,Other,international
+75,Scallops,Other,international
+76,Punch,Other,international
+77,Veggie Dip,Other,international
+78,Sandwich,Other,international
+79,Snacks,Snack,international
+80,Pastries,Other,French/European
+81,Prawn Cakes,Dessert,Thai
+82,Meatballs,Other,international
+83,Noodle Dish,Other,international
+84,Muffin topping,Other,international
+85,Pasta Dish,Other,Italian
+86,Chicken Thighs,Other,international
+87,Wings,Other,American
+88,Parmesan,Other,Italian
+89,Zucchini Bread,Side,American
+90,Nuts,Other,international
+91,Quesadilla,Other,Mexican
+92,Pad Thai,Other,Thai
+93,Spareribs,Other,American
+94,Panini,Other,Italian
+95,Curry,Entree,Indian
+96,Stir Fry,Other,Chinese
+97,Shortbread,Side,British
+98,Fishcakes,Dessert,international
+99,Couscous,Other,North African
+100,Quiche,Other,French
+101,Salmon,Other,international
+102,Tea,Beverage,international
+103,Fried Rice,Other,Chinese
+104,Poultry,Other,international
+105,Snack Mix,Snack,international
+106,Cupcakes,Dessert,American
+107,Wiches,Other,international
+108,Crepes,Other,French
+109,Bread Bowl,Side,American
+110,Quesadillas,Other,Mexican
+111,Chicken,Other,international
+112,Flatbread.,Side,Middle Eastern
+113,Filling,Other,international
+114,Pudding,Dessert,British
+115,Omelet,Other,French
+116,Chicken Cuts,Other,international
+117,Chutney,Other,Indian
+118,Bhaji,Other,Indian
+119,Pancakes,Breakfast,American
+120,Pizza Sauce,Other,Italian
+121,Tacos,Other,Mexican
+122,Greens,Side,international
+123,Raviolini,Other,Italian
+124,Crabs,Other,international
+125,Smoothies,Other,international
+126,Pizza Crust,Other,Italian
+127,Hummus,Other,Middle Eastern
+128,Hash,Other,American
+129,Strata,Other,American
+130,Spaghetti,Other,Italian
+131,Frittata,Other,Italian
+132,Coffee,Beverage,international
+133,Chicken Parmesan,Other,Italian
+134,Oatmeal Cake,Dessert,international
+135,Sausage,Other,international
+136,Brownies,Dessert,American
+137,Rösti,Other,Swiss
+138,Provolone,Other,Italian
+139,Potato Casserole,Other,international
+140,Tart,Other,French
+141,Granola Bars,Other,American
+142,Soap,Other,international
+143,Gyros,Other,Greek
+144,Dessert,Dessert,international
+145,Cooler,Other,international
+146,Mousse,Other,French
+147,Egg Rolls,Other,Chinese
+148,Frosting,Other,international
+149,Burritos,Other,Mexican
+150,Wafers,Other,international
+151,Dumplings,Other,Chinese
+152,Crackers,Other,international
+153,Tomatoes,Other,international
+154,Quiches,Other,French
+155,Pulled Pork,Other,American
+156,Wrap,Other,international
+157,Hamburgers,Other,American
+158,Pennucci,Other,international
+159,Sweet Potato Casserole,Other,American
+160,Pumpkin,Other,international
+161,Gelato,Other,Italian
+162,Turnover,Other,international
+163,Brats,Other,German
+164,Skillet,Other,international
+165,Butter,Other,international
+166,Cream Pie,Dessert,American
+167,Lemonade,Other,international
+168,Goulash,Other,Hungarian
+169,Dressing,Other,international
+170,Taters,Other,American
+171,Beets,Other,international
+172,Trail Mix,Other,American
+173,Energy Bar,Other,international
+174,Shells,Other,Italian
+175,Vada,Other,Indian
+176,Pork,Other,international
+177,Stuffed Cabbage.,Other,Eastern European
+178,Ribs,Other,American
+179,Fruit Cups,Other,international
+180,Curry Paste,Entree,Indian
+181,Rubs,Other,international
+182,Cheesecake,Dessert,international
+183,Tostadas,Other,Mexican
+184,Eggplant,Other,international
+185,Conserve,Other,international
+186,Fudge,Other,American
+187,Toast,Other,international
+188,Tea Sandwiches,Beverage,British
+189,Duck,Other,international
+190,Stuffing,Other,American
+191,Macarons,Other,French
+192,Rice Bowl,Other,Asian
+193,Deviled Eggs,Other,American
+194,Sandwich Filling,Other,international
+195,Cookie,Snack,international
+196,Pasta dish,Other,Italian
+197,Rice Dish,Other,international
+198,Roast,Other,international
+199,Cocoa,Other,international
+200,Bruschetta,Appetizer,Italian
+201,Appetizers,Appetizer,international
+202,Barbecue Sauce,Other,American
+203,Risotto,Other,Italian
+204,Rice Balls,Other,Italian
+205,Bacon,Other,international
+206,Waffles,Breakfast,Belgian
+207,Jams,Other,international
+208,Mocktail,Other,international
+209,Strawberries,Other,international
+210,Peppers,Other,international
+211,Souffle,Other,French
+212,Oatmeal,Other,international
+213,Kabobs,Other,Middle Eastern
+214,Mash,Other,international
+215,Smoothie,Other,international
+216,Chili Rellenos,Other,Mexican
+217,Squash Bowls,Other,international
+218,Eggs,Other,international
+219,Barbecue,Other,American
+220,Canapés,Other,French
+221,Savory Pancake,Breakfast,international
+222,Dip.,Other,international
+223,Kebab,Other,Middle Eastern
+224,Bread Pudding,Dessert,British
+225,Torte,Other,German
+226,Sorbet,Other,French
+227,Sausages,Other,German
+228,Gnocchi,Other,Italian
+229,Veggie Bowl,Other,international
+230,French Toast,Other,French
+231,Salmon Roll,Other,Japanese
+232,Beans,Other,international
+233,Catfish,Other,American
+234,Stromboli,Other,Italian
+235,Biscotti,Other,Italian
+236,Salt,Other,international
+237,Lamb Chops,Other,international
+238,Potato Dip,Other,international
+239,Popcorn,Snack,American
+240,Flatbread,Side,Middle Eastern
+241,Hamburger,Other,American
+242,Dosa,Other,Indian
+243,Perogies,Other,Eastern European
+244,Lamb Koftas,Other,Middle Eastern
+245,Chicken Casserole,Other,American
+246,Snack,Snack,international
+247,Cider,Other,international
+248,Macaroons,Other,French
+249,Vegetables,Other,international
+250,Cola,Other,international
+251,Fritters,Other,international
+252,Snow Peas,Other,international
+253,London Broil,Other,American
+254,French Bread,Side,French
+255,Biscuit,Other,American
+256,Rusks,Other,South African
+257,Side dish,Side,international
+258,Eggplant Parmesan,Other,Italian
+259,Cookie Bars,Snack,American
+260,Stuffed Mushrooms,Other,international
+261,Noodle dish,Other,Chinese
+262,Gumbo,Other,Cajun/Creole (American)
+263,Squash,Other,international
+264,Pork Chops,Other,international
+265,Beef Stew,Other,international
+266,Truffles,Other,French
+267,Dipping Sauce,Other,international
+268,Gravy,Other,American
+269,Tartlets,Other,French
+270,Toffee,Other,British
+271,Stuffed Peppers,Other,international
+272,Glaze,Other,international
+273,Tortillas,Other,Mexican
+274,Onion Rings,Other,American
+275,Chicken Tagine,Other,Moroccan
+276,Wraps,Other,international
+277,Fondant,Other,French
+278,Pork Roast,Other,international
+279,Steaks,Entree,international
+280,Beef,Other,international
+281,Chicken Breasts,Other,international
+282,Roti,Other,Indian
+283,Nachos,Other,Mexican
+284,Focaccia,Other,Italian
+285,Gratin,Other,French
+286,Meringues,Other,French
+287,Corned Beef and Cabbage Casserole - Shepherd's Pies,Dessert,American
+288,Bok Choy,Other,Chinese
+289,Meatpie,Dessert,British
+290,Chicken Scampi,Other,Italian
+291,Pinwheels.,Other,international
+292,Marmalade,Other,British
+293,Scrambled Eggs,Other,international
+294,Fettuccine,Other,Italian
+295,Fajitas,Other,Mexican
+296,Cabbage Rolls,Other,Eastern European
+297,Potato Puffs,Other,international
+298,Coffee Cake,Dessert,American
+299,Burrito Filling,Other,Mexican
+300,Shrimp,Other,international
+301,Fritter,Other,international
+302,Sundaes,Other,American
+303,Puddings,Dessert,British
+304,Chilaquiles,Other,Mexican
+305,Chicken Packets,Other,international
+306,Pikelets,Other,Australian
+307,Empanadas,Other,Latin American
+308,Medallions,Other,international
+309,Ragu,Other,Italian
+310,Prawns,Other,international
+311,Glassware,Other,international
+312,Fish Cakes,Dessert,international
+313,Kebabs,Other,Middle Eastern
+314,Buns,Other,international
+315,Frittatas,Other,Italian
+316,Bar Cookies,Snack,American
+317,Fruitcake,Dessert,British
+318,Red Cabbage,Other,international
+319,Pretzels,Other,German
+320,Curd,Other,international
+321,Veggie Side,Side,international
+322,Raita.,Other,Indian
+323,Gingerbread,Side,British
+324,Fruit Salads,Side,international
+325,Halva,Other,Middle Eastern
+326,Panzanella,Other,Italian
+327,Polenta,Other,Italian
+328,Fingers,Other,international
+329,Roast Pork,Other,international
+330,Salads,Side,international
+331,Noodle Soup,Soup,Asian
+332,Chicken Tenders,Other,American
+333,Hot Chocolate,Other,international
+334,Shake,Other,international
+335,Beef Stir-Fry,Other,Chinese
+336,Panna Cotta,Other,Italian
+337,Paella,Other,Spanish
+338,Dressings,Other,international
+339,Spread,Other,international
+340,Confiture,Other,French
+341,Corn,Other,international
+342,Tapenade,Other,French
+343,Hashbrowns,Other,American
+344,Juice,Beverage,international
+345,Marinade,Other,international
+346,Mints,Other,international
+347,Chocolate Spread,Other,international
+348,Hot Dog,Other,American
+349,Milkshake,Other,American
+350,Sausage Pizza,Other,Italian
+351,Custard Pie,Dessert,British
+352,Cobbler,Other,American
+353,Loaf,Other,international
+354,Sushi,Other,Japanese
+355,Eggplants,Other,international
+356,Biryani,Other,Indian
+357,Bell Peppers,Other,international
+358,Scaloppine,Other,Italian
+359,Onion Fritters,Other,Indian
+360,Sate,Other,Indonesian
+361,Short Ribs,Other,American
+362,Satay,Other,Indonesian
+363,Polenta Pie,Dessert,Italian
+364,Pinwheels,Other,international
+365,Chicken Dish,Other,international
+366,Flounder,Other,international
+367,Cereal Treats,Other,American
+368,Bananas,Other,international
+369,Ham,Other,international
+370,Onions,Other,international
+371,Beef Stroganoff,Other,Russian
+372,Fattah,Other,Middle Eastern
+373,Lentil Curry,Entree,Indian
+374,Chicken Cutlets,Other,international
+375,Chicken Marsala,Entree,Italian
