@@ -1,0 +1,1988 @@
+IngredientID,Name,Category,Calories
+0,water,Other,0
+1,grits,Other,110
+2,salt,Other,5
+3,cheddar cheese,Dairy,113
+4,garlic,Vegetables,20
+5,olive oil,Fats & Oils,150
+6,onion,Vegetables,20
+7,red bell pepper,Vegetables,20
+8,garlic cloves,Vegetables,20
+9,large shrimp,Other,50
+10,hot pepper sauce,Vegetables,20
+11,vegetable oil,Fats & Oils,130
+12,andouille sausage,Herbs & Spices,5
+13,long grain rice,Grains & Legumes,120
+14,bay leaves,Other,50
+15,diced tomatoes,Vegetables,20
+16,clam juice,Other,50
+17,fresh parsley,Herbs & Spices,5
+18,white beans,Grains & Legumes,120
+19,canned black beans,Grains & Legumes,120
+20,tomatoes,Vegetables,20
+21,celery,Other,50
+22,white wine vinegar,Condiments,15
+23,italian parsley,Herbs & Spices,5
+24,table salt,Other,50
+25,black pepper,Vegetables,20
+26,zucchini,Other,50
+27,yellow squash,Other,50
+28,green bell pepper,Vegetables,20
+29,italian seasoning,Other,50
+30,salt and pepper,Vegetables,20
+31,beef stew meat,Meat & Poultry,200
+32,flour,Baking Essentials,364
+33,allspice,Herbs & Spices,5
+34,cinnamon,Herbs & Spices,5
+35,onions,Vegetables,20
+36,dried sour cherries,Other,50
+37,sugar,Baking Essentials,387
+38,dry red wine,Other,50
+39,beef stock,Meat & Poultry,200
+40,mushroom,Other,50
+41,slivered almonds,Nuts & Seeds,50
+42,cider vinegar,Condiments,15
+43,ground cumin,Herbs & Spices,5
+44,ground coriander,Other,50
+45,cayenne pepper,Vegetables,20
+46,chicken breasts,Meat & Poultry,200
+47,green onion,Vegetables,20
+48,parsley,Herbs & Spices,5
+49,mayonnaise,Condiments,15
+50,sour cream,Other,50
+51,lemon juice,Other,50
+52,dijon mustard,Condiments,15
+53,salt %26 pepper,Vegetables,20
+54,potato chips,Vegetables,20
+55,eggs,Eggs,70
+56,milk,Dairy,120
+57,fresh sage,Herbs & Spices,5
+58,fresh thyme,Herbs & Spices,5
+59,pecorino cheese,Dairy,100
+60,asparagus,Other,50
+61,extra virgin olive oil,Fats & Oils,120
+62,butter,Dairy,80
+63,potatoes,Vegetables,20
+64,nutmeg,Nuts & Seeds,50
+65,creamed corn,Other,50
+66,low sodium chicken broth,Meat & Poultry,200
+67,lump crabmeat,Other,50
+68,lean ground beef,Meat & Poultry,200
+69,ketchup,Condiments,15
+70,heinz chili sauce,Condiments,15
+71,white vinegar,Condiments,15
+72,prepared yellow mustard,Condiments,15
+73,onion powder,Vegetables,20
+74,granulated sugar,Baking Essentials,400
+75,baking powder,Baking Essentials,400
+76,vanilla extract,Other,50
+77,whole wheat flour,Grains & Legumes,120
+78,chocolate chips,Other,50
+79,decorator sugar,Baking Essentials,400
+80,all-purpose flour,Baking Essentials,400
+81,baking soda,Baking Essentials,400
+82,margarine,Other,50
+83,dark brown sugar,Baking Essentials,400
+84,egg,Eggs,68
+85,egg white,Eggs,70
+86,vanilla,Other,50
+87,semi-sweet chocolate chips,Other,50
+88,unsalted beef stock,Meat & Poultry,200
+89,carrot,Vegetables,20
+90,bay leaf,Other,50
+91,thyme,Herbs & Spices,5
+92,whole black peppercorn,Vegetables,20
+93,black peppercorns,Vegetables,20
+94,green peppercorn,Vegetables,20
+95,new york strip steaks,Other,50
+96,unsalted butter,Dairy,100
+97,shallots,Other,50
+98,cognac,Other,50
+99,dry white wine,Other,50
+100,button mushrooms,Other,50
+101,portabella mushrooms,Other,50
+102,wonton wrappers,Other,50
+103,cornstarch,Other,50
+104,1%25 low-fat milk,Dairy,100
+105,fresh parmesan cheese,Dairy,100
+106,fresh chives,Other,50
+107,fresh ground black pepper,Vegetables,20
+108,shortcake cups,Other,50
+109,ice cream,Other,50
+110,hot fudge,Other,50
+111,whipped cream,Other,50
+112,strawberry,Fruits,60
+113,corn on the cob,Other,50
+114,chicken breast tenders,Meat & Poultry,200
+115,poultry seasoning,Other,50
+116,cumin,Herbs & Spices,5
+117,yellow onion,Vegetables,20
+118,chipotle chile in adobo,Other,50
+119,stewed tomatoes,Vegetables,20
+120,tomato sauce,Vegetables,20
+121,chicken stock,Meat & Poultry,200
+122,blue corn tortilla chips,Other,50
+123,red onion,Vegetables,20
+124,cilantro,Herbs & Spices,5
+125,avocado,Other,50
+126,lemon%2c juice of,Other,50
+127,prawns,Other,50
+128,garlic clove,Vegetables,20
+129,gruyere,Other,50
+130,cornflour,Baking Essentials,200
+131,pear cider,Other,50
+132,vegetables,Other,50
+133,plantains,Other,50
+134,leek,Other,50
+135,fresh italian parsley,Herbs & Spices,5
+136,pecans,Nuts & Seeds,50
+137,pickling cucumbers,Other,50
+138,kosher salt,Other,50
+139,coriander seed,Nuts & Seeds,50
+140,fresh dill,Other,50
+141,ice,Other,50
+142,grape leaves,Fruits,60
+143,elbow macaroni,Other,50
+144,ground beef,Meat & Poultry,200
+145,chili without beans,Grains & Legumes,120
+146,cottage cheese,Dairy,100
+147,corn chips,Other,50
+148,chili powder,Other,50
+149,buttered bread crumb,Dairy,100
+150,green pepper,Vegetables,20
+151,carrots,Vegetables,20
+152,celery rib,Other,50
+153,frozen corn,Other,50
+154,black beans,Grains & Legumes,120
+155,pink beans,Grains & Legumes,120
+156,crushed pineapple in juice,Fruits,60
+157,french lentils,Grains & Legumes,120
+158,diced tomatoes with juice,Vegetables,20
+159,tomato soup,Vegetables,20
+160,garlic powder,Vegetables,20
+161,liquid smoke,Other,50
+162,coriander,Other,50
+163,ginger,Other,50
+164,cardamom,Other,50
+165,turmeric,Herbs & Spices,5
+166,mace,Other,50
+167,clove,Other,50
+168,bittersweet chocolate chips,Other,50
+169,kefir,Other,50
+170,pie crusts,Other,50
+171,fresh mushrooms,Other,50
+172,garlic salt,Vegetables,20
+173,parsley flakes,Herbs & Spices,5
+174,ricotta cheese,Dairy,100
+175,part-skim mozzarella cheese,Dairy,100
+176,italian cheese blend,Dairy,100
+177,pasta sauce,Condiments,15
+178,heavy cream,Other,50
+179,vanilla bean,Grains & Legumes,120
+180,egg yolks,Eggs,70
+181,fresh raspberry,Fruits,60
+182,baking chocolate,Other,50
+183,pralines,Other,50
+184,coffee beans,Grains & Legumes,120
+185,bananas,Fruits,60
+186,brandy,Other,50
+187,brown sugar,Baking Essentials,400
+188,racks of lamb,Meat & Poultry,200
+189,oil,Fats & Oils,150
+190,peppercorn,Vegetables,20
+191,self rising flour,Baking Essentials,400
+192,superfine sugar,Baking Essentials,400
+193,frozen pie crusts,Other,50
+194,italian sausage,Herbs & Spices,5
+195,mushrooms,Other,50
+196,mozzarella cheese,Dairy,100
+197,parmesan cheese,Dairy,100
+198,pizza sauce,Condiments,15
+199,ground almonds,Nuts & Seeds,50
+200,lemons%2c zest of,Other,50
+201,sugar syrup,Baking Essentials,400
+202,icing sugar,Baking Essentials,400
+203,soy sauce,Condiments,15
+204,snow peas,Other,50
+205,pepper,Vegetables,20
+206,rice,Grains & Legumes,130
+207,bacon,Other,50
+208,ground pork,Meat & Poultry,200
+209,fresh ground pepper,Vegetables,20
+210,red onions,Vegetables,20
+211,hamburger buns,Other,50
+212,camembert cheese,Dairy,100
+213,gorgonzola,Other,50
+214,arugula,Other,50
+215,walnuts,Nuts & Seeds,654
+216,red food coloring,Other,50
+217,blue food coloring,Other,50
+218,caster sugar,Baking Essentials,400
+219,cream cheese,Dairy,100
+220,lime curd,Other,50
+221,double cream,Other,50
+222,dried pinto beans,Grains & Legumes,120
+223,yellow onions,Vegetables,20
+224,plum tomatoes,Vegetables,20
+225,fresh cilantro,Herbs & Spices,5
+226,lime%2c juice of,Other,50
+227,salt %26 freshly ground black pepper,Vegetables,20
+228,crema,Other,50
+229,shrimp,Other,50
+230,light brown sugar,Baking Essentials,400
+231,white sugar,Baking Essentials,400
+232,heavy whipping cream,Other,50
+233,brie cheese,Dairy,100
+234,mascarpone,Other,50
+235,marsala wine,Other,50
+236,espresso coffee,Other,50
+237,ladyfingers,Other,50
+238,unsweetened cocoa powder,Other,50
+239,sweetened cocoa powder,Other,50
+240,white rum,Other,50
+241,maraschino juice,Other,50
+242,grapefruit juice,Fruits,60
+243,blue curacao,Other,50
+244,pineapple juice,Fruits,60
+245,yellow cornmeal,Other,50
+246,fresh ground white pepper,Vegetables,20
+247,vegetable shortening,Other,50
+248,shortening,Other,50
+249,monterey jack cheese,Dairy,100
+250,plain breadcrumbs,Other,50
+251,green onions,Vegetables,20
+252,fresh basil,Herbs & Spices,5
+253,tabasco sauce,Condiments,15
+254,fresh lemon juice,Other,50
+255,fresh crabmeat,Other,50
+256,cooking oil,Fats & Oils,150
+257,cream of mushroom soup,Other,50
+258,cream of chicken soup,Meat & Poultry,200
+259,evaporated milk,Dairy,100
+260,chicken gravy,Meat & Poultry,200
+261,frozen blackberries,Other,50
+262,cranberry sauce,Fruits,60
+263,skinless chicken breasts,Meat & Poultry,200
+264,parsnip,Other,50
+265,green beans,Grains & Legumes,120
+266,old bay seasoning,Other,50
+267,worcestershire sauce,Condiments,15
+268,cooked shrimp,Other,50
+269,spaghetti sauce mix,Condiments,15
+270,crescent roll dough,Other,50
+271,almond extract,Nuts & Seeds,50
+272,maraschino cherries,Other,50
+273,flaked coconut,Nuts & Seeds,50
+274,green food coloring,Other,50
+275,dried cranberries,Other,50
+276,meat,Other,50
+277,fresh gingerroot,Other,50
+278,dried red chilies,Other,50
+279,ground turmeric,Herbs & Spices,5
+280,whole cumin seeds,Nuts & Seeds,50
+281,ground chicken,Meat & Poultry,200
+282,seasoning,Other,50
+283,italian seasoned breadcrumbs,Other,50
+284,red pepper flakes,Vegetables,20
+285,crushed tomatoes,Vegetables,20
+286,fresh basil leaves,Herbs & Spices,5
+287,hoagie rolls,Other,50
+288,provolone cheese,Dairy,100
+289,baby carrots,Vegetables,20
+290,honey,Other,50
+291,ground allspice,Herbs & Spices,5
+292,vanilla essence,Other,50
+293,pumpkin,Other,50
+294,cinnamon sticks,Herbs & Spices,5
+295,curry powder,Other,50
+296,bulgur,Other,50
+297,vegetable broth,Other,50
+298,pork loin chops,Meat & Poultry,200
+299,beef broth,Meat & Poultry,200
+300,red snapper fillets,Other,50
+301,tomato paste,Vegetables,20
+302,white wine,Other,50
+303,oregano,Herbs & Spices,5
+304,orange peel,Fruits,60
+305,sirloin steaks,Other,50
+306,parsnips,Other,50
+307,dates,Other,50
+308,mixed salad greens,Other,50
+309,mint leaves,Other,50
+310,low-fat creme fraiche,Other,50
+311,horseradish sauce,Condiments,15
+312,hard-boiled eggs,Fats & Oils,300
+313,green chilies,Other,50
+314,corn tortillas,Other,50
+315,prepared mustard,Condiments,15
+316,chives,Other,50
+317,mashed banana,Fruits,60
+318,rolled oats,Grains & Legumes,120
+319,nuts,Nuts & Seeds,50
+320,medium grain rice,Grains & Legumes,120
+321,paprika,Herbs & Spices,5
+322,macaroni noodles,Other,50
+323,ramen noodles,Other,50
+324,broccoli,Vegetables,20
+325,sunflower seeds,Nuts & Seeds,50
+326,sliced almonds,Nuts & Seeds,50
+327,basmati rice,Grains & Legumes,120
+328,cinnamon stick,Herbs & Spices,5
+329,green cardamom pods,Other,50
+330,pumpkin puree,Other,50
+331,kidney beans,Grains & Legumes,120
+332,corn,Other,50
+333,diced tomatoes with jalapenos,Vegetables,20
+334,chili seasoning mix,Other,50
+335,red chile,Other,50
+336,sourdough loaf,Other,50
+337,turkey,Other,50
+338,muenster cheese,Dairy,100
+339,coconut extract,Nuts & Seeds,50
+340,buttermilk,Dairy,100
+341,shredded coconut,Nuts & Seeds,50
+342,powdered sugar,Baking Essentials,400
+343,confectioners%27 sugar,Baking Essentials,400
+344,hot water,Other,50
+345,egg whites,Eggs,70
+346,cherry tomatoes,Vegetables,20
+347,quick-cooking oats,Grains & Legumes,120
+348,panko breadcrumbs,Other,50
+349,lemon zest,Other,50
+350,salsa,Other,50
+351,reynolds wrap foil,Fats & Oils,120
+352,snow pea pods,Other,50
+353,linguine,Other,50
+354,chicken bouillon,Meat & Poultry,200
+355,skim milk,Dairy,100
+356,yogurt,Dairy,100
+357,saffron thread,Other,50
+358,green cardamom seeds,Nuts & Seeds,50
+359,pistachios,Other,50
+360,noodles,Other,50
+361,large curd cottage cheese,Dairy,100
+362,raisins,Other,50
+363,cinnamon-sugar mixture,Herbs & Spices,5
+364,frozen chopped spinach,Vegetables,20
+365,feta cheese,Dairy,100
+366,unflavored gelatin,Other,50
+367,plain low-fat yogurt,Dairy,100
+368,saffron,Other,50
+369,hot green chili peppers,Vegetables,20
+370,peppercorns,Vegetables,20
+371,cardamom seed,Nuts & Seeds,50
+372,cumin seed,Nuts & Seeds,50
+373,poppy seed,Nuts & Seeds,50
+374,plain yogurt,Dairy,100
+375,boneless chicken,Meat & Poultry,200
+376,ghee,Other,50
+377,cashews,Nuts & Seeds,50
+378,almonds,Nuts & Seeds,90
+379,sweet potatoes,Vegetables,20
+380,dried basil,Herbs & Spices,5
+381,sea salt,Other,50
+382,cheese,Dairy,100
+383,dried ancho chile powder,Other,50
+384,dried chipotle powder,Other,50
+385,lime juice,Other,50
+386,hot sauce,Condiments,15
+387,ice cubes,Other,50
+388,brewed coffee,Other,50
+389,coffee liqueur,Other,50
+390,ground cinnamon,Herbs & Spices,5
+391,half-and-half,Other,50
+392,lasagna noodles,Other,50
+393,cooked ham,Other,50
+394,frozen chopped broccoli,Vegetables,20
+395,low-fat margarine,Other,50
+396,smoked sausage,Herbs & Spices,5
+397,red pepper,Vegetables,20
+398,yellow pepper,Vegetables,20
+399,celery ribs,Other,50
+400,baby corn,Other,50
+401,red chilies,Other,50
+402,chopped tomatoes,Vegetables,20
+403,white pepper,Vegetables,20
+404,dried oregano,Herbs & Spices,5
+405,frying oil,Fats & Oils,200
+406,palm sugar,Baking Essentials,350
+407,jalapeno pepper,Vegetables,20
+408,yellow bell pepper,Vegetables,20
+409,whole tomatoes,Vegetables,20
+410,pinto beans,Grains & Legumes,120
+411,cornmeal,Other,50
+412,crisco shortening,Other,50
+413,half-and-half cream,Other,50
+414,boneless beef chuck roast,Meat & Poultry,200
+415,fresh thyme leave,Herbs & Spices,5
+416,beer,Other,50
+417,turnip,Other,50
+418,fresh parsley leaves,Herbs & Spices,5
+419,prepared polenta,Other,50
+420,soba noodles,Other,50
+421,chicken broth,Meat & Poultry,200
+422,dry sherry,Other,50
+423,gingerroot,Other,50
+424,strawberries,Other,50
+425,gelling sugar,Baking Essentials,400
+426,lime peel,Other,50
+427,roma tomatoes,Vegetables,20
+428,fresh jalapeno peppers,Vegetables,20
+429,fresh lime juice,Other,50
+430,ground black pepper,Vegetables,20
+431,instant apple cider drink mix,Fruits,60
+432,cabbage,Other,50
+433,reduced-fat mayonnaise,Condiments,15
+434,rye bread,Other,50
+435,nonstick cooking spray,Other,50
+436,reduced-fat swiss cheese,Dairy,100
+437,corned beef,Meat & Poultry,200
+438,aubergine,Other,50
+439,fennel bulb,Other,50
+440,apple cider,Fruits,60
+441,red wine vinegar,Condiments,15
+442,sherry wine vinegar,Condiments,15
+443,pancetta,Other,50
+444,tart apples,Fruits,60
+445,gouda cheese,Dairy,100
+446,white cheddar cheese,Dairy,100
+447,veal loin,Other,50
+448,shiitake mushrooms,Other,50
+449,molasses,Other,50
+450,fettuccine pasta,Other,50
+451,sea scallops,Other,50
+452,alfredo sauce,Condiments,15
+453,cooked chicken,Meat & Poultry,200
+454,jumbo pasta shells,Other,50
+455,lemons,Other,50
+456,dry white wine,Other,50
+457,mint,Other,50
+458,chicken base,Meat & Poultry,200
+459,warm water,Other,50
+460,fresh spinach leaves,Vegetables,20
+461,firm tofu,Other,50
+462,vegan mayonnaise,Condiments,15
+463,umeboshi plum paste,Other,50
+464,dried marjoram,Other,50
+465,dried thyme,Herbs & Spices,5
+466,ground rosemary,Herbs & Spices,5
+467,yellow mustard,Condiments,15
+468,smoked paprika,Herbs & Spices,5
+469,bread,Other,50
+470,black forest ham,Other,50
+471,swiss cheese,Dairy,100
+472,dill pickles,Other,50
+473,caramel sauce,Condiments,15
+474,apple,Fruits,60
+475,puff pastry,Other,50
+476,light cream cheese,Dairy,100
+477,french style green beans,Grains & Legumes,120
+478,water-packed artichoke hearts,Other,50
+479,breadcrumbs,Other,50
+480,french-fried onions,Vegetables,20
+481,fresh lime leaves,Other,50
+482,sweet chili sauce,Condiments,15
+483,corn flakes,Other,50
+484,rice flour,Grains & Legumes,120
+485,bugles original flavor snacks,Other,50
+486,small pretzels,Other,50
+487,candy corn,Other,50
+488,dried fruit,Other,50
+489,peanuts,Nuts & Seeds,50
+490,m%26m%27s plain chocolate candy,Other,50
+491,milk chocolate kisses,Dairy,100
+492,blue cheese,Dairy,100
+493,dry breadcrumbs,Other,50
+494,dried rosemary,Herbs & Spices,5
+495,egg noodles,Eggs,70
+496,steak,Other,50
+497,sesame oil,Fats & Oils,160
+498,adobo seasoning,Other,50
+499,scallion,Other,50
+500,boneless skinless chicken breasts,Meat & Poultry,200
+501,rotini pasta,Other,50
+502,olive oil flavored cooking spray,Fats & Oils,150
+503,light pasta sauce,Condiments,15
+504,low fat mozzarella,Other,50
+505,peanut oil,Nuts & Seeds,50
+506,red chili pepper,Vegetables,20
+507,filet of beef,Meat & Poultry,200
+508,fermented black beans,Grains & Legumes,120
+509,oyster mushrooms,Other,50
+510,rice wine,Grains & Legumes,120
+511,light soy sauce,Condiments,15
+512,oyster sauce,Condiments,15
+513,flat rice noodles,Grains & Legumes,120
+514,gai lan,Other,50
+515,spring onions,Vegetables,20
+516,orange juice,Fruits,60
+517,yellow cake mix,Other,50
+518,ice water,Other,50
+519,chicken thighs,Meat & Poultry,200
+520,applesauce,Fruits,60
+521,ground cloves,Other,50
+522,cinnamon sugar,Herbs & Spices,5
+523,green lentil,Grains & Legumes,50
+524,pickling salt,Other,50
+525,sharp cheddar cheese,Dairy,100
+526,peppercorn ranch dressing,Vegetables,20
+527,tortillas,Other,50
+528,deli turkey,Other,50
+529,fresh black pepper,Vegetables,20
+530,pickle,Other,50
+531,blue cheese dressing,Dairy,100
+532,carbonated lemon-lime beverage,Other,50
+533,lemon extract,Other,50
+534,eggplants,Eggs,70
+535,spaghetti,Other,50
+536,spaghetti sauce,Condiments,15
+537,sorghum flour,Baking Essentials,400
+538,brown rice flour,Grains & Legumes,120
+539,tapioca flour,Baking Essentials,400
+540,sucanat,Other,50
+541,ground nutmeg,Nuts & Seeds,50
+542,xanthan gum,Other,50
+543,natural applesauce,Fruits,60
+544,non-dairy milk substitute,Dairy,100
+545,coconut oil,Nuts & Seeds,50
+546,cacao,Other,50
+547,fresh sage leaves,Herbs & Spices,5
+548,dried apricots,Other,50
+549,pure maple syrup,Other,50
+550,flour tortillas,Baking Essentials,400
+551,chicken meat,Meat & Poultry,200
+552,spaghetti squash,Other,50
+553,thai fish sauce,Seafood,180
+554,reduced-sodium tamari soy sauce,Condiments,15
+555,raw shrimp,Other,50
+556,mung bean sprouts,Grains & Legumes,120
+557,scallions,Other,50
+558,lime,Other,50
+559,roasted peanuts,Nuts & Seeds,50
+560,pork chops,Meat & Poultry,200
+561,cooking apples,Fruits,60
+562,cider,Other,50
+563,round loaf italian bread,Other,50
+564,romaine lettuce,Vegetables,20
+565,roasted red pepper,Vegetables,20
+566,sweet onions,Vegetables,20
+567,salami,Other,50
+568,mortadella,Other,50
+569,green olives,Other,50
+570,black olives,Other,50
+571,pepperoncini pepper,Vegetables,20
+572,tomato juice,Vegetables,20
+573,frozen mixed vegetables,Other,50
+574,cheese-filled tortellini,Dairy,100
+575,semisweet chocolate morsels,Other,50
+576,sweetened condensed milk,Dairy,100
+577,curry paste,Other,50
+578,coconut milk,Dairy,100
+579,pineapple,Fruits,60
+580,morningstar farms grillers,Other,50
+581,low sodium soy sauce,Condiments,15
+582,lean beef,Meat & Poultry,200
+583,balsamic vinegar,Condiments,15
+584,crushed tomatoes in puree,Vegetables,20
+585,fryer chickens,Meat & Poultry,200
+586,quinoa,Grains & Legumes,120
+587,fresh mint leaves,Other,50
+588,fresh cilantro leaves,Herbs & Spices,5
+589,canned salmon,Other,300
+590,ground pepper,Vegetables,20
+591,saltines,Other,50
+592,boneless skinless chicken thighs,Meat & Poultry,200
+593,fresh bay leaf,Other,50
+594,dried apricot,Other,50
+595,lemon%2c juice and zest of,Other,50
+596,kalamata olive,Other,50
+597,pine nuts,Nuts & Seeds,50
+598,couscous,Other,50
+599,flat leaf parsley,Herbs & Spices,5
+600,frozen spinach,Vegetables,20
+601,canola oil,Fats & Oils,140
+602,greek yogurt,Dairy,100
+603,orange zest,Fruits,60
+604,lemon,Other,50
+605,deep dish pie shell,Other,50
+606,whole milk,Dairy,100
+607,sandwich bread,Other,50
+608,salmon fillet,Other,400
+609,boiling water,Fats & Oils,0
+610,chicken bouillon cube,Meat & Poultry,200
+611,rose petals,Other,50
+612,jasmine flower,Other,50
+613,tap water,Other,50
+614,chicken,Meat & Poultry,165
+615,bourbon,Other,50
+616,vinegar,Condiments,15
+617,orange,Fruits,60
+618,boneless skinless chicken breast halves,Meat & Poultry,200
+619,shallot,Other,50
+620,riesling wine,Other,50
+621,fresh marjoram,Other,50
+622,ham bone,Other,50
+623,dried great northern beans,Grains & Legumes,120
+624,chicken bouillon cubes,Meat & Poultry,200
+625,rubbed sage,Herbs & Spices,5
+626,season-all salt,Other,50
+627,dried parsley,Herbs & Spices,5
+628,pasta,Other,50
+629,cheerios toasted oat cereal,Grains & Legumes,120
+630,animal crackers,Other,50
+631,miniature pretzel twists,Other,50
+632,crackers,Other,50
+633,fruit snacks,Other,50
+634,cake flour,Baking Essentials,400
+635,splenda sugar substitute,Baking Essentials,400
+636,pam cooking spray,Other,50
+637,eggplant,Eggs,70
+638,basil,Herbs & Spices,5
+639,pie crust mix,Other,50
+640,taco seasoning mix,Other,50
+641,bisquick baking mix,Other,50
+642,cold water,Other,50
+643,lettuce,Vegetables,20
+644,diced tomato,Vegetables,20
+645,cucumber,Other,50
+646,dried dill,Other,50
+647,tapioca pudding,Other,50
+648,apples,Fruits,60
+649,pastrami,Other,50
+650,pepperoncini peppers,Vegetables,20
+651,diced green chilies,Other,50
+652,whole kernel corn,Other,50
+653,fajita-size flour tortillas,Baking Essentials,150
+654,fresh spinach,Vegetables,20
+655,fresh rosemary,Herbs & Spices,5
+656,pure vanilla extract,Other,50
+657,mango,Fruits,60
+658,sweetened flaked coconut,Nuts & Seeds,50
+659,lime zest,Other,50
+660,buckwheat pancake mix,Grains & Legumes,120
+661,bisquick,Other,50
+662,white onion,Vegetables,20
+663,chicken bouillon granules,Meat & Poultry,200
+664,chipotle chiles in adobo,Other,50
+665,frozen corn kernels,Other,50
+666,cilantro leaf,Herbs & Spices,5
+667,corn tortilla chips,Other,50
+668,lime wedge,Other,50
+669,kernel corn,Other,50
+670,ground lamb,Meat & Poultry,200
+671,fresh breadcrumb,Other,50
+672,dried mint,Other,50
+673,olive,Other,50
+674,chile,Other,50
+675,bean paste,Grains & Legumes,120
+676,dashi,Other,50
+677,hot pepper paste,Vegetables,20
+678,potato,Vegetables,20
+679,soft tofu,Other,50
+680,flat-leaf italian parsley,Herbs & Spices,5
+681,fresh oregano,Herbs & Spices,5
+682,lemon peel,Other,50
+683,port wine,Other,50
+684,muscovado sugar,Baking Essentials,400
+685,mustard seeds,Nuts & Seeds,50
+686,besan flour,Baking Essentials,400
+687,garam masala,Other,50
+688,brown onions,Vegetables,20
+689,coriander leaves,Other,50
+690,mango chutney,Fruits,60
+691,egg substitute,Eggs,70
+692,dried parsley flakes,Herbs & Spices,5
+693,boneless skinless chicken breast,Meat & Poultry,200
+694,reduced-sodium fat-free chicken broth,Meat & Poultry,200
+695,whole wheat spiral pasta,Grains & Legumes,120
+696,reduced-fat parmesan cheese,Dairy,100
+697,unbleached all-purpose flour,Baking Essentials,400
+698,wheat germ,Grains & Legumes,120
+699,unsweetened cocoa,Other,50
+700,apple juice concentrate,Fruits,60
+701,nonfat dry milk powder,Dairy,100
+702,salsa verde,Other,50
+703,bell pepper,Vegetables,20
+704,cooked turkey,Other,50
+705,white kidney beans,Grains & Legumes,120
+706,dried currants,Other,50
+707,yellow bell peppers,Vegetables,20
+708,fresh ginger,Other,50
+709,cooked white rice,Grains & Legumes,120
+710,toasted almond,Nuts & Seeds,50
+711,fresh flat-leaf parsley,Herbs & Spices,5
+712,leeks,Other,50
+713,french beans,Grains & Legumes,120
+714,canned tomatoes,Vegetables,20
+715,sweetcorn,Other,50
+716,swiss chard,Other,50
+717,golden raisin,Other,50
+718,long grain white rice,Grains & Legumes,120
+719,seeds,Nuts & Seeds,50
+720,beets,Other,50
+721,basil leaves,Herbs & Spices,5
+722,oregano leaves,Herbs & Spices,5
+723,cheese ravioli,Dairy,100
+724,frozen broccoli,Vegetables,20
+725,soft shelled crabs,Other,50
+726,country cream gravy,Other,50
+727,backfin crab meat,Other,50
+728,tomatoes with juice,Vegetables,20
+729,garbanzo beans,Grains & Legumes,120
+730,medium pasta shells,Other,50
+731,parmigiano-reggiano cheese,Dairy,100
+732,banana,Fruits,60
+733,berries,Other,50
+734,low-fat vanilla yogurt,Dairy,100
+735,active dry yeast,Baking Essentials,400
+736,small white potatoes,Vegetables,20
+737,coarse salt,Other,50
+738,maple syrup,Other,50
+739,cooked rice,Grains & Legumes,120
+740,green onion top,Vegetables,20
+741,reduced-fat italian salad dressing,Other,50
+742,beef sirloin steak,Meat & Poultry,200
+743,fat free sour cream,Other,50
+744,vegetable stock,Other,50
+745,mincemeat,Other,50
+746,pears,Other,50
+747,ground ginger,Other,50
+748,pastry for a double-crust 9-inch pie,Other,50
+749,cooked beef,Meat & Poultry,200
+750,baking potatoes,Vegetables,20
+751,dry mustard,Condiments,15
+752,ground thyme,Herbs & Spices,5
+753,cool whip,Other,50
+754,instant vanilla pudding,Other,50
+755,green apples,Fruits,60
+756,snickers candy bars,Other,50
+757,italian bread,Other,50
+758,frozen peppers and onions,Vegetables,20
+759,sun-dried tomato pesto,Vegetables,20
+760,quick-cooking couscous,Other,50
+761,instant chicken bouillon granules,Meat & Poultry,200
+762,lemon rind,Other,50
+763,sun-dried tomatoes,Vegetables,20
+764,rocket,Other,50
+765,unsweetened applesauce,Fruits,60
+766,nonfat milk,Dairy,100
+767,sugar-free instant pudding mix,Baking Essentials,400
+768,orzo pasta,Other,50
+769,asiago cheese,Dairy,100
+770,green peppers,Vegetables,20
+771,cayenne,Other,50
+772,canning salt,Other,50
+773,portabella mushroom caps,Other,50
+774,romano cheese,Dairy,100
+775,tarragon,Other,50
+776,red beans,Grains & Legumes,120
+777,sausage,Herbs & Spices,5
+778,beef mince,Meat & Poultry,200
+779,brown onion,Vegetables,20
+780,celery salt,Other,50
+781,red wine,Other,50
+782,dinner rolls,Other,50
+783,deli ham,Other,50
+784,mustard,Condiments,15
+785,chipolata sausages,Herbs & Spices,5
+786,cooking spray,Other,50
+787,red capsicum,Other,50
+788,cream,Other,50
+789,tasty cheese,Dairy,100
+790,soup mix,Other,50
+791,picante sauce,Condiments,15
+792,sifted flour,Baking Essentials,400
+793,coffee,Other,50
+794,strawberry jam,Fruits,60
+795,vanilla ice cream,Other,50
+796,oat bran,Grains & Legumes,120
+797,flax seed,Nuts & Seeds,50
+798,dried chili,Other,50
+799,string,Other,50
+800,spinach,Vegetables,20
+801,coconut,Nuts & Seeds,50
+802,low-fat milk,Dairy,100
+803,ground venison,Other,50
+804,cracked black pepper,Vegetables,20
+805,morton tender quick salt,Other,50
+806,bittersweet chocolate,Other,50
+807,fresh tarragon,Other,50
+808,blueberries,Other,50
+809,veal sausage,Herbs & Spices,5
+810,barbecue sauce,Condiments,15
+811,vegemite,Other,50
+812,sun-dried tomato,Vegetables,20
+813,crushed red pepper flakes,Vegetables,20
+814,skewers,Other,50
+815,canned corn,Other,50
+816,jalapeno,Other,50
+817,chocolate milk,Dairy,100
+818,frozen shredded hash browns,Other,50
+819,pesto sauce,Condiments,15
+820,peanut butter,Dairy,100
+821,miniature m%26m baking bits,Other,50
+822,sweet cherries,Other,50
+823,whipping cream,Other,50
+824,tiny new potatoes,Vegetables,20
+825,fresh peas,Other,50
+826,dried chervil,Other,50
+827,radish,Other,50
+828,apricot,Other,50
+829,fresh orange juice,Fruits,60
+830,orange rind,Fruits,60
+831,low-fat chicken broth,Meat & Poultry,200
+832,reduced-sodium diced tomatoes,Vegetables,20
+833,lentils,Grains & Legumes,116
+834,all-bran cereal,Other,50
+835,pineapple chunks,Fruits,60
+836,crushed pineapple,Fruits,60
+837,coarse grain mustard,Condiments,15
+838,cooked brown rice,Grains & Legumes,120
+839,mandarin orange segments,Fruits,60
+840,rice vinegar,Grains & Legumes,120
+841,sriracha sauce,Condiments,15
+842,water chestnuts,Nuts & Seeds,50
+843,hoisin sauce,Condiments,15
+844,mushroom soy sauce,Condiments,15
+845,toasted sesame seeds,Nuts & Seeds,50
+846,butterflied leg of lamb,Dairy,100
+847,ground oregano,Herbs & Spices,5
+848,creole seasoning,Other,50
+849,artichoke hearts,Other,50
+850,soap bars,Other,50
+851,cinnamon oil,Herbs & Spices,5
+852,chocolate pudding,Other,50
+853,chocolate shavings,Other,50
+854,baby spinach,Vegetables,20
+855,greek salad dressing,Other,50
+856,sandwich wraps,Other,50
+857,cherry flavored liqueur,Other,50
+858,cherries,Other,50
+859,semi-sweet chocolate baking square,Other,50
+860,glutinous rice,Grains & Legumes,120
+861,unsweetened coconut milk,Dairy,100
+862,mangoes,Fruits,60
+863,sparkling white wine,Other,50
+864,white chocolate,Other,50
+865,kiwi fruit,Other,50
+866,peppadew peppers,Vegetables,20
+867,seasoning salt,Other,50
+868,egg roll wraps,Eggs,70
+869,vanilla flavor instant pudding and pie filling mix,Other,50
+870,penne pasta,Other,50
+871,diced tomatoes with basil oregano and garlic,Vegetables,20
+872,marinated artichoke hearts,Other,50
+873,boneless beef roast,Meat & Poultry,200
+874,jalapeno peppers,Vegetables,20
+875,sodium-free seasoning,Other,50
+876,reduced-sodium beef broth,Meat & Poultry,200
+877,fat free tortillas,Other,50
+878,chopped tomato,Vegetables,20
+879,reduced-fat cheddar cheese,Dairy,100
+880,mccormick%27s montreal brand steak seasoning,Other,50
+881,beef gravy mix,Meat & Poultry,200
+882,condensed cream of mushroom soup,Other,50
+883,frozen tater tots,Other,50
+884,cheese tortellini,Dairy,100
+885,broccoli floret,Vegetables,20
+886,italian cheese,Dairy,100
+887,unsweetened dried shredded coconut,Nuts & Seeds,50
+888,glutinous-rice flour,Grains & Legumes,120
+889,boneless skinless chicken,Meat & Poultry,200
+890,thai basil,Herbs & Spices,5
+891,crisco,Other,50
+892,raspberry preserves,Fruits,60
+893,almond flour,Nuts & Seeds,50
+894,pumpkin seeds,Nuts & Seeds,50
+895,refried beans,Grains & Legumes,120
+896,taco salad shells,Other,50
+897,bulk sausage,Herbs & Spices,5
+898,salmon fillets,Other,400
+899,taco seasoning,Other,50
+900,taco shells,Other,50
+901,mexican blend cheese,Dairy,100
+902,white flour,Baking Essentials,400
+903,oats,Grains & Legumes,120
+904,country time lemonade mix,Other,50
+905,graham cracker pie crust,Other,50
+906,salt pork,Meat & Poultry,200
+907,sauerkraut,Other,50
+908,madeira wine,Other,50
+909,vanilla flavoring,Other,50
+910,prosciutto,Other,50
+911,blanched almond,Nuts & Seeds,50
+912,roasted cashews,Nuts & Seeds,50
+913,whole pecans,Nuts & Seeds,50
+914,pork roast,Meat & Poultry,200
+915,ginger ale,Other,50
+916,light cream,Other,50
+917,flour tortilla,Baking Essentials,400
+918,imitation crabmeat,Other,50
+919,ripe olives,Other,50
+920,low-fat ranch dressing,Other,50
+921,refrigerated biscuits,Other,50
+922,white bread,Other,50
+923,steak sauce,Condiments,15
+924,lean ground chuck,Other,50
+925,ground cayenne pepper,Vegetables,20
+926,red cinnamon candies,Herbs & Spices,5
+927,miniature marshmallows,Other,50
+928,limes,Other,50
+929,fish sauce,Seafood,180
+930,seedless cucumber,Nuts & Seeds,50
+931,roast beef,Meat & Poultry,200
+932,of fresh mint,Other,50
+933,kielbasa,Other,50
+934,green chili,Other,50
+935,lasagna noodle,Other,50
+936,part-skim ricotta cheese,Dairy,100
+937,2%25 low-fat milk,Dairy,100
+938,marinara sauce,Condiments,15
+939,instant espresso powder,Other,50
+940,amaretto,Other,50
+941,mascarpone cheese,Dairy,100
+942,dark chocolate,Other,50
+943,nutella,Nuts & Seeds,50
+944,shelled pistachios,Other,50
+945,seasoned bread crumbs,Other,50
+946,sliced mushrooms,Other,50
+947,fresh thyme leaves,Herbs & Spices,5
+948,fontina cheese,Dairy,100
+949,round steak,Other,50
+950,bratwursts,Other,50
+951,hot dog buns,Other,50
+952,sweet onion,Vegetables,20
+953,kaffir lime leaves,Other,50
+954,frozen peas and carrot,Vegetables,20
+955,string beans,Grains & Legumes,120
+956,cashew nuts,Nuts & Seeds,50
+957,onion and garlic powder,Vegetables,20
+958,ginger powder,Other,50
+959,new potatoes,Vegetables,20
+960,pimiento,Other,50
+961,frozen peas,Other,50
+962,brown rice,Grains & Legumes,120
+963,rosemary,Herbs & Spices,5
+964,dry roasted sunflower seeds,Nuts & Seeds,50
+965,reduced sodium soy sauce,Condiments,15
+966,fresh broccoli florets,Vegetables,20
+967,pork tenderloin,Meat & Poultry,200
+968,chopped pimiento,Other,50
+969,catalina dressing,Other,50
+970,fresh strawberries,Other,50
+971,fennel seeds,Nuts & Seeds,50
+972,unbaked pie shells,Other,50
+973,fresh blueberries,Other,50
+974,ground turkey,Other,50
+975,no-boil lasagna noodles,Fats & Oils,300
+976,french bread,Other,50
+977,ham,Other,50
+978,ranch dressing,Other,50
+979,sweet pickle relish,Other,50
+980,fresh garlic cloves,Vegetables,20
+981,fine breadcrumbs,Other,50
+982,italian-style diced tomatoes,Vegetables,20
+983,kalamata olives,Other,50
+984,capers,Other,50
+985,rigatoni pasta,Other,50
+986,chili beans,Grains & Legumes,120
+987,extra-sharp cheddar cheese,Dairy,100
+988,plain flour,Baking Essentials,400
+989,rice krispies,Grains & Legumes,120
+990,rum,Other,50
+991,root beer,Other,50
+992,low-fat plain yogurt,Dairy,100
+993,whole wheat pastry flour,Grains & Legumes,120
+994,frozen cut broccoli in cheese sauce,Dairy,100
+995,red pepper sauce,Vegetables,20
+996,butternut squash,Dairy,100
+997,tart green apple,Fruits,60
+998,dry oregano,Herbs & Spices,5
+999,raw honey,Other,50
+1000,peppermint extract,Vegetables,20
+1001,unsweetened chocolate chips,Other,50
+1002,roquefort cheese,Dairy,100
+1003,crouton,Other,50
+1004,chicken tenders,Meat & Poultry,400
+1005,cilantro leaves and stems,Herbs & Spices,5
+1006,butter flavor crisco,Dairy,100
+1007,semisweet chocolate piece,Other,50
+1008,white chocolate baking square,Other,50
+1009,napa cabbage,Other,50
+1010,yuzu juice,Other,50
+1011,grapeseed oil,Fruits,60
+1012,green coriander,Other,50
+1013,tamarind pulp,Other,50
+1014,kingfish steaks,Seafood,180
+1015,coriander powder,Other,50
+1016,creamed coconut,Nuts & Seeds,50
+1017,extra lean ground beef,Meat & Poultry,200
+1018,chunky salsa,Other,50
+1019,russet potatoes,Vegetables,20
+1020,okra,Other,50
+1021,ground red pepper,Vegetables,20
+1022,beef marinade,Meat & Poultry,200
+1023,salt %26 fresh ground pepper,Vegetables,20
+1024,suey choy,Other,50
+1025,baby bok choy,Other,50
+1026,sweet pepper,Vegetables,20
+1027,watercress,Other,50
+1028,marinade,Other,50
+1029,whole wheat bread,Grains & Legumes,120
+1030,almond butter,Dairy,100
+1031,sliced peaches in juice,Other,50
+1032,orange%2c rind of,Fruits,60
+1033,rice pudding,Grains & Legumes,120
+1034,egg yolk,Eggs,70
+1035,whole meal bread,Other,50
+1036,smoked salmon,Other,300
+1037,streaky bacon,Other,50
+1038,small caper,Other,50
+1039,rice wine vinegar,Grains & Legumes,120
+1040,jalapeno chiles,Other,50
+1041,boneless chicken breasts,Meat & Poultry,200
+1042,peanut butter captain crunch cereal,Dairy,100
+1043,kix cereal,Other,50
+1044,mixed nuts,Nuts & Seeds,50
+1045,almond bark,Nuts & Seeds,50
+1046,rhubarb,Other,50
+1047,bicarbonate of soda,Other,50
+1048,dried cherries,Other,50
+1049,oatmeal,Grains & Legumes,120
+1050,apple juice,Fruits,60
+1051,lemon slice,Other,50
+1052,white cornmeal,Other,50
+1053,shoe peg corn,Other,50
+1054,dill weed,Other,50
+1055,broccoli florets,Vegetables,20
+1056,rotini noodles,Other,50
+1057,almond meal,Nuts & Seeds,50
+1058,chicken breast,Meat & Poultry,200
+1059,cauliflower,Other,50
+1060,mixed mushrooms,Other,50
+1061,low-fat ricotta cheese,Dairy,100
+1062,natural yoghurt,Other,50
+1063,black gram,Other,50
+1064,red chili powder,Other,50
+1065,cumin powder,Herbs & Spices,5
+1066,chat masala,Other,50
+1067,tamarind chutney,Other,50
+1068,cannellini beans,Grains & Legumes,120
+1069,hamburger,Other,50
+1070,lean ham,Other,50
+1071,head of cabbage,Other,50
+1072,apple cider vinegar,Fruits,60
+1073,dried rosemary leaves,Herbs & Spices,5
+1074,dried basil leaves,Herbs & Spices,5
+1075,dried thyme leaves,Herbs & Spices,5
+1076,fresh coarse ground black pepper,Vegetables,20
+1077,broiler chickens,Meat & Poultry,200
+1078,beef shank,Meat & Poultry,200
+1079,dried red pepper,Vegetables,20
+1080,whole cloves,Other,50
+1081,butter beans,Dairy,100
+1082,frozen cut okra,Other,50
+1083,dried chives,Other,50
+1084,strawberry gelatin,Fruits,60
+1085,peach gelatin,Other,50
+1086,lemon gelatin,Other,50
+1087,nectarines,Other,50
+1088,grapes,Fruits,60
+1089,thai green chili,Other,50
+1090,galangal,Other,50
+1091,lemongrass,Other,50
+1092,coriander root,Other,50
+1093,shrimp paste,Other,50
+1094,wax beans,Grains & Legumes,120
+1095,minced beef,Meat & Poultry,200
+1096,peas,Other,50
+1097,dried ancho chiles,Other,50
+1098,mild chili powder,Other,50
+1099,hot chili powder,Other,50
+1100,chimayo chili powder,Other,50
+1101,chipotle paste,Other,50
+1102,roasting chickens,Meat & Poultry,200
+1103,graham cracker crumbs,Other,50
+1104,boneless chicken breast halves,Meat & Poultry,200
+1105,low-fat buttermilk,Dairy,100
+1106,corn flake crumbs,Other,50
+1107,sweet hungarian paprika,Herbs & Spices,5
+1108,cajun seasoning,Other,50
+1109,sliced ripe olives,Other,50
+1110,baking mix,Other,50
+1111,tamari,Other,50
+1112,nutritional yeast flakes,Nuts & Seeds,50
+1113,white potato,Vegetables,20
+1114,pearl barley,Grains & Legumes,120
+1115,unsweetened chocolate,Other,50
+1116,dried calimyrna figs,Other,50
+1117,baguette,Other,50
+1118,ground sausage,Herbs & Spices,5
+1119,ground mustard,Condiments,15
+1120,cooked noodles,Other,50
+1121,93%25 lean ground beef,Meat & Poultry,200
+1122,dry onion soup mix,Vegetables,20
+1123,dried onion,Vegetables,20
+1124,frozen whole kernel corn,Other,50
+1125,frozen cubed hash brown potatoes,Vegetables,20
+1126,sugar-free instant chocolate pudding mix,Baking Essentials,300
+1127,natural-style peanut butter,Dairy,100
+1128,sugar-free whipped topping,Baking Essentials,400
+1129,duck breasts,Other,50
+1130,fresh thyme sprigs,Herbs & Spices,5
+1131,red currant jam,Other,50
+1132,wild mushrooms,Other,50
+1133,thyme leaves,Herbs & Spices,5
+1134,vegetable bouillon granules,Other,50
+1135,white truffle oil,Fats & Oils,130
+1136,jelly powder,Other,50
+1137,marshmallows,Other,50
+1138,flank steak,Other,50
+1139,prepared horseradish,Other,50
+1140,cornbread mix,Other,50
+1141,buttermilk biscuits,Dairy,100
+1142,red potatoes,Vegetables,20
+1143,sweet basil,Herbs & Spices,5
+1144,vodka,Other,50
+1145,godiva white chocolate liqueur,Other,50
+1146,white creme de cacao,Other,50
+1147,oranges%2c zest of,Fruits,60
+1148,semisweet chocolate,Other,50
+1149,kraft hickory smoked barbecue sauce,Condiments,15
+1150,kikkoman soy sauce,Condiments,15
+1151,cooked jasmine rice,Grains & Legumes,120
+1152,pork %26 beans,Meat & Poultry,200
+1153,minestrone soup,Other,50
+1154,deviled eggs recipe,Eggs,70
+1155,poppy seeds,Nuts & Seeds,50
+1156,tamarind paste,Other,50
+1157,chicken wings,Meat & Poultry,200
+1158,french%27s mustard,Condiments,15
+1159,dried red chili,Other,50
+1160,spring onion,Vegetables,20
+1161,chestnuts,Nuts & Seeds,50
+1162,chicken stock powder,Meat & Poultry,200
+1163,heinz ketchup,Condiments,15
+1164,peaches,Other,50
+1165,unsulphured molasses,Other,50
+1166,fresh tomato,Vegetables,20
+1167,hass avocadoes,Other,50
+1168,fat-free buttermilk,Dairy,100
+1169,center-cut pork chops,Meat & Poultry,200
+1170,arugula leaves,Other,50
+1171,sheep%27s milk cheese,Dairy,100
+1172,fresh green beans,Grains & Legumes,120
+1173,french fried onion rings,Vegetables,20
+1174,dried navy beans,Grains & Legumes,120
+1175,pork shoulder blade roast,Meat & Poultry,200
+1176,mashed potatoes,Vegetables,20
+1177,fresh curly-leaf parsley,Herbs & Spices,5
+1178,red pepper ring,Vegetables,20
+1179,frank%27s red hot sauce,Condiments,15
+1180,scallops,Other,50
+1181,cooked pasta,Other,50
+1182,fresh tomatoes,Vegetables,20
+1183,hot sausage,Herbs & Spices,5
+1184,apple jelly,Fruits,60
+1185,spicy brown mustard,Condiments,15
+1186,dried orange peel,Fruits,60
+1187,catsup,Other,50
+1188,fennel seed,Nuts & Seeds,50
+1189,dry oregano leaves,Herbs & Spices,5
+1190,dried red pepper flakes,Vegetables,20
+1191,pie crust,Other,50
+1192,ranch dressing mix,Other,50
+1193,tortilla chips,Other,50
+1194,graham crackers,Other,50
+1195,organic turkey,Other,50
+1196,dried sage,Herbs & Spices,5
+1197,arborio rice,Grains & Legumes,120
+1198,chardonnay wine,Other,50
+1199,artichoke heart,Other,50
+1200,mild curry powder,Other,50
+1201,sweet apples,Fruits,60
+1202,french baguette,Other,50
+1203,chevre cheese,Dairy,100
+1204,sourdough rolls,Other,50
+1205,goat cheese,Dairy,100
+1206,sun-dried tomatoes packed in oil,Vegetables,20
+1207,short-grain rice,Grains & Legumes,120
+1208,mirin,Other,50
+1209,sugar cube,Baking Essentials,400
+1210,fine dry breadcrumb,Other,50
+1211,stuffed olives,Other,50
+1212,white chocolate chips,Other,50
+1213,vanilla pudding mix,Other,50
+1214,minute rice,Grains & Legumes,120
+1215,frozen waffles,Other,50
+1216,cloves,Other,50
+1217,graham cracker crust,Other,50
+1218,sugar-free chocolate syrup,Baking Essentials,400
+1219,italian pork sausage,Meat & Poultry,200
+1220,dried oregano leaves,Herbs & Spices,5
+1221,devil%27s food cake mix,Other,50
+1222,cherry pie filling,Other,50
+1223,extra-light vegetable oil spread,Fats & Oils,100
+1224,pumpkin pie spice,Herbs & Spices,5
+1225,quick oats,Grains & Legumes,120
+1226,banana chips,Fruits,60
+1227,limes%2c juice of,Other,50
+1228,fresh pineapple,Fruits,60
+1229,duck,Other,50
+1230,orange marmalade,Fruits,60
+1231,orange juice concentrate,Fruits,60
+1232,duck fat,Other,50
+1233,salad greens,Other,50
+1234,taco sauce,Condiments,15
+1235,hot red pepper flakes,Vegetables,20
+1236,buckwheat noodles,Grains & Legumes,120
+1237,fat-free sweetened condensed milk,Dairy,100
+1238,brummel and brown spread,Other,50
+1239,cooked quinoa,Grains & Legumes,120
+1240,unbaked 9-inch pie crust,Other,50
+1241,seedless raisin,Nuts & Seeds,50
+1242,hard-cooked eggs,Eggs,70
+1243,sourdough bread,Other,50
+1244,jarlsberg cheese,Dairy,100
+1245,low-fat greek yogurt,Dairy,100
+1246,strong black coffee,Other,50
+1247,chocolate hazelnut spread,Nuts & Seeds,50
+1248,artificial sweetener,Other,50
+1249,fat-free whipped topping,Other,50
+1250,green chili peppers,Vegetables,20
+1251,longhorn cheese,Dairy,100
+1252,skinless chicken,Meat & Poultry,200
+1253,mixed salad green,Other,50
+1254,morton lite salt,Other,50
+1255,walnut oil,Nuts & Seeds,50
+1256,squash,Other,50
+1257,soft brown sugar,Baking Essentials,400
+1258,frozen raspberries in light syrup,Other,50
+1259,orange-flavored liqueur,Fruits,60
+1260,grape tomatoes,Vegetables,20
+1261,hot pepper peach jelly,Vegetables,20
+1262,self-raising flour,Baking Essentials,400
+1263,bonito flakes,Other,50
+1264,texas toast thick bread,Other,50
+1265,smoked ham,Other,50
+1266,whole wheat spaghetti,Grains & Legumes,120
+1267,fresh basil leaf,Herbs & Spices,5
+1268,ranch dip mix,Other,50
+1269,trans-fat free margarine,Other,50
+1270,whiskey,Other,50
+1271,sweet paprika,Herbs & Spices,5
+1272,hummus,Other,50
+1273,smooth peanut butter,Dairy,100
+1274,cream of coconut,Nuts & Seeds,50
+1275,vegetable oil cooking spray,Fats & Oils,130
+1276,wheat bran,Grains & Legumes,120
+1277,splenda granular,Other,50
+1278,splenda brown sugar blend,Baking Essentials,400
+1279,dream whip,Other,50
+1280,corn syrup,Other,50
+1281,dutch-processed cocoa powder,Other,50
+1282,olives,Other,50
+1283,sage,Herbs & Spices,5
+1284,sausages,Herbs & Spices,5
+1285,gnocchi,Other,50
+1286,basil pesto,Herbs & Spices,5
+1287,white onions,Vegetables,20
+1288,old fashioned oats,Grains & Legumes,120
+1289,iceberg lettuce,Vegetables,20
+1290,diced onion,Vegetables,20
+1291,ranch style beans,Grains & Legumes,120
+1292,french dressing,Other,50
+1293,lima beans,Grains & Legumes,120
+1294,kidney bean,Grains & Legumes,120
+1295,pork and beans in tomato sauce,Meat & Poultry,200
+1296,catfish nuggets,Seafood,180
+1297,extra-large eggs,Eggs,70
+1298,unsalted peanuts,Nuts & Seeds,50
+1299,pie shells,Other,50
+1300,pizza dough,Other,50
+1301,prosciutto ham,Other,50
+1302,turkey pepperoni,Vegetables,20
+1303,roasted red peppers,Vegetables,20
+1304,butterscotch chips,Dairy,100
+1305,chocolate-covered almonds,Nuts & Seeds,50
+1306,dark seedless raisins,Nuts & Seeds,50
+1307,instant couscous,Other,50
+1308,frozen puff pastry,Other,50
+1309,poblano chiles,Other,50
+1310,chilies,Other,50
+1311,meat broth,Other,50
+1312,hungarian paprika,Herbs & Spices,5
+1313,toffee pieces,Other,50
+1314,lamb chops,Meat & Poultry,200
+1315,real vanilla extract,Other,50
+1316,cocoa powder,Other,50
+1317,popcorn,Other,50
+1318,sweet corn soup,Other,50
+1319,smoked fish fillet,Seafood,180
+1320,kumara,Other,50
+1321,turmeric powder,Herbs & Spices,5
+1322,vegetable soup,Other,50
+1323,refrigerated crescent dinner roll,Other,50
+1324,cream of tartar,Other,50
+1325,black gram dal,Other,50
+1326,bengal gram dal,Other,50
+1327,asafoetida powder,Other,50
+1328,garlic paste,Vegetables,20
+1329,mustard oil,Fats & Oils,100
+1330,ginger-garlic paste,Vegetables,20
+1331,anise seed,Nuts & Seeds,50
+1332,garam masala powder,Other,50
+1333,shredded cheddar cheese,Dairy,100
+1334,rice noodles,Grains & Legumes,120
+1335,lamb,Meat & Poultry,200
+1336,hot chili pepper,Vegetables,20
+1337,string bean,Grains & Legumes,120
+1338,white button mushrooms,Other,50
+1339,arrowroot flour,Baking Essentials,400
+1340,ginger juice,Other,50
+1341,tahini paste,Other,50
+1342,chunky peanut butter,Dairy,100
+1343,dry roasted peanuts,Nuts & Seeds,50
+1344,pretzel sticks,Other,50
+1345,turkey breast tenderloins,Other,50
+1346,dried italian seasoning,Other,50
+1347,plum tomato,Vegetables,20
+1348,mixed dried fruit,Other,50
+1349,macaroons,Other,50
+1350,wooden skewers,Other,50
+1351,boneless chuck roast,Other,50
+1352,chili sauce,Condiments,15
+1353,dill pickle,Other,50
+1354,pear,Other,50
+1355,lager beer,Other,50
+1356,squash blossoms,Other,50
+1357,dried chili pepper flakes,Vegetables,20
+1358,chorizo sausages,Herbs & Spices,5
+1359,calamari,Other,50
+1360,long-grain white rice,Grains & Legumes,120
+1361,lillet blanc,Other,50
+1362,gin,Other,50
+1363,angostura bitters,Other,50
+1364,lemon twist,Other,50
+1365,london broil beef,Meat & Poultry,200
+1366,onion soup mix,Vegetables,20
+1367,fat free low-sodium beef broth,Meat & Poultry,200
+1368,vidalia onion,Vegetables,20
+1369,white potatoes,Vegetables,20
+1370,fusilli,Other,50
+1371,cocoa,Other,50
+1372,pitted dates,Other,50
+1373,dried coconut,Nuts & Seeds,50
+1374,fresh goat cheese,Dairy,100
+1375,raw carrots,Vegetables,20
+1376,yeast,Baking Essentials,150
+1377,biscuits,Other,50
+1378,rotisserie-cooked chicken,Meat & Poultry,200
+1379,unbleached white flour,Baking Essentials,400
+1380,lemon%2c rind of,Other,50
+1381,unsifted flour,Baking Essentials,400
+1382,skinless chicken breast halves,Meat & Poultry,200
+1383,canned pumpkin,Other,50
+1384,small mushrooms,Other,50
+1385,serrano ham,Other,50
+1386,canned tomato sauce,Vegetables,20
+1387,fresh corn,Other,50
+1388,cream of celery soup,Other,50
+1389,cooked bacon,Other,400
+1390,peanut butter chips,Dairy,100
+1391,white mushrooms,Other,50
+1392,chicken noodle soup mix,Meat & Poultry,200
+1393,celery hearts,Other,50
+1394,skinless chicken drumsticks,Meat & Poultry,200
+1395,lean hamburger,Other,50
+1396,lean stewing beef,Meat & Poultry,200
+1397,whole canned tomatoes,Vegetables,20
+1398,red kidney beans,Grains & Legumes,120
+1399,cranberries,Other,50
+1400,whipped topping,Other,50
+1401,diced pimentos,Other,50
+1402,bread and butter pickle juice,Dairy,100
+1403,no-trans-fat 68%25 vegetable oil spread sticks,Fats & Oils,120
+1404,fingerling potatoes,Vegetables,20
+1405,reblochon cheese,Dairy,100
+1406,grain,Other,50
+1407,sliced water chestnuts,Nuts & Seeds,50
+1408,bean sprouts,Grains & Legumes,120
+1409,graham cracker squares,Other,50
+1410,medium shrimp,Other,50
+1411,oysters,Other,50
+1412,crabmeat,Other,50
+1413,crawfish tail meat,Seafood,180
+1414,condensed cheddar cheese soup,Dairy,100
+1415,cooked long-grain rice,Grains & Legumes,120
+1416,enchilada sauce,Condiments,15
+1417,milk chocolate chips,Dairy,100
+1418,low fat cottage cheese,Dairy,100
+1419,baked beans,Grains & Legumes,120
+1420,guacamole,Other,50
+1421,vanilla yogurt,Dairy,100
+1422,simply potatoes diced potatoes with onion,Vegetables,20
+1423,frozen strawberries,Other,50
+1424,key lime juice,Other,50
+1425,green bell peppers,Vegetables,20
+1426,red bell peppers,Vegetables,20
+1427,scotch bonnet pepper,Vegetables,20
+1428,bell peppers,Vegetables,20
+1429,cauliflower floret,Other,50
+1430,crisp bacon,Other,450
+1431,hidden valley%26reg%3b original ranch%26reg%3b dressing,Other,50
+1432,parmigiano,Other,50
+1433,blueberry pie filling,Fruits,60
+1434,cherry jell-o,Other,50
+1435,beef blade roast,Meat & Poultry,200
+1436,kaiser roll,Other,50
+1437,maraschino cherry,Other,50
+1438,no-sugar-needed pectin,Baking Essentials,400
+1439,figs,Other,50
+1440,grand marnier,Other,50
+1441,rosemary sprig,Herbs & Spices,5
+1442,fresh cayenne pepper,Vegetables,20
+1443,low sodium beef broth,Meat & Poultry,200
+1444,head romaine lettuce,Vegetables,20
+1445,anchovy paste,Other,50
+1446,cinnamon schnapps,Herbs & Spices,5
+1447,tuna,Other,50
+1448,spanish peanuts,Nuts & Seeds,50
+1449,garlic sauce,Vegetables,20
+1450,pan drippings from chicken,Meat & Poultry,200
+1451,gingersnap cookies,Other,50
+1452,old cheddar cheese,Dairy,100
+1453,granny smith apples,Fruits,60
+1454,low-fat cheddar cheese,Dairy,100
+1455,reduced-calorie margarine,Other,50
+1456,karo light corn syrup,Other,50
+1457,chicken bouillon powder,Meat & Poultry,200
+1458,stuffed green olive,Other,50
+1459,fresh bay leaves,Other,50
+1460,cumin seeds,Nuts & Seeds,50
+1461,diced pimento,Other,50
+1462,steamed rice,Grains & Legumes,120
+1463,sesame seeds,Nuts & Seeds,50
+1464,peking duck,Other,50
+1465,snake beans,Grains & Legumes,120
+1466,fresh pineapple chunks,Fruits,60
+1467,macadamia nuts,Nuts & Seeds,50
+1468,red cabbage,Other,50
+1469,granny smith apple,Fruits,60
+1470,bavarian smoked cheese,Dairy,100
+1471,lettuce leaf,Vegetables,20
+1472,hot mustard,Condiments,15
+1473,mint leaf,Other,50
+1474,malt vinegar,Condiments,15
+1475,dried beef,Meat & Poultry,200
+1476,frozen hash browns,Other,50
+1477,rotel tomatoes %26 chilies,Vegetables,20
+1478,extra strong coffee,Other,50
+1479,italian dressing,Other,50
+1480,chili,Other,50
+1481,instant rice,Grains & Legumes,120
+1482,lemons%2c juice of,Other,50
+1483,tamari soy sauce,Condiments,15
+1484,monterey jack pepper cheese,Dairy,100
+1485,bitter chocolate,Other,50
+1486,pork loin,Meat & Poultry,200
+1487,salt and black pepper,Vegetables,20
+1488,ground sage,Herbs & Spices,5
+1489,green cabbage,Other,50
+1490,fat free chicken broth,Meat & Poultry,200
+1491,turkey sausage,Herbs & Spices,5
+1492,chuck roast,Other,50
+1493,baby lima beans,Grains & Legumes,120
+1494,soup,Other,50
+1495,whole mushrooms,Other,50
+1496,burgundy wine,Other,50
+1497,demerara sugar,Baking Essentials,400
+1498,amaretto liqueur,Other,50
+1499,haddock,Other,50
+1500,aluminum foil,Fats & Oils,0
+1501,mexican-style corn,Other,50
+1502,accent seasoning,Other,50
+1503,chicken breast halves,Meat & Poultry,200
+1504,celery seed,Nuts & Seeds,50
+1505,fat free blue cheese dressing,Dairy,100
+1506,soya flour,Baking Essentials,400
+1507,wheat flour,Grains & Legumes,120
+1508,fresh chili peppers,Vegetables,20
+1509,tuna packed in oil,Fats & Oils,500
+1510,tomatillos,Other,50
+1511,jalapenos,Other,50
+1512,cucumbers,Other,50
+1513,distilled white vinegar,Condiments,15
+1514,chorizo sausage,Herbs & Spices,5
+1515,unsweetened chocolate squares,Other,50
+1516,fish fillets,Seafood,180
+1517,low-fat mayonnaise,Condiments,15
+1518,lemon wedge,Other,50
+1519,dried dill weed,Other,50
+1520,mexican cheese,Dairy,100
+1521,caraway seed,Nuts & Seeds,50
+1522,herbed croutons,Herbs & Spices,5
+1523,american cheese,Dairy,100
+1524,non-fat vanilla yogurt,Dairy,100
+1525,low-fat cooking spray,Other,50
+1526,reduced-fat feta cheese,Dairy,100
+1527,cavenders all purpose greek seasoning,Other,50
+1528,fresh garlic,Vegetables,20
+1529,simply potatoes red potato wedges,Vegetables,20
+1530,caesar salad dressing,Other,50
+1531,romaine lettuce hearts,Vegetables,20
+1532,deer,Other,50
+1533,cut green beans,Grains & Legumes,120
+1534,condensed tomato soup,Vegetables,20
+1535,light corn syrup,Other,50
+1536,puffed corn cereal,Other,50
+1537,broken pretzel,Other,50
+1538,refrigerated crescent dinner rolls,Other,50
+1539,onion salt,Vegetables,20
+1540,digestive biscuits,Other,50
+1541,chocolate ice cream,Other,50
+1542,chocolate,Other,50
+1543,biscuit,Other,50
+1544,pork spareribs,Meat & Poultry,200
+1545,grapefruit,Fruits,60
+1546,seville oranges,Fruits,60
+1547,mandarin oranges,Fruits,60
+1548,passion fruit,Other,50
+1549,garlic granules,Vegetables,20
+1550,mild cheddar cheese,Dairy,100
+1551,top round steaks,Other,50
+1552,unbleached flour,Baking Essentials,400
+1553,pan drippings,Other,50
+1554,lemons%2c juice and rind of,Other,50
+1555,9-inch pie shell,Other,50
+1556,serrano pepper,Vegetables,20
+1557,whole wheat fettuccine,Grains & Legumes,120
+1558,pea pods,Other,50
+1559,dark molasses,Other,50
+1560,dark rum,Other,50
+1561,chili pepper,Vegetables,20
+1562,yams,Other,50
+1563,thin spaghetti,Other,50
+1564,red curry paste,Other,50
+1565,creamy peanut butter,Dairy,100
+1566,penne,Other,50
+1567,french vanilla flavored coffee creamer,Other,50
+1568,knorr parma rosa sauce mix,Condiments,15
+1569,cooked egg noodles,Eggs,70
+1570,flank steaks,Other,50
+1571,plums,Other,50
+1572,desiccated coconut,Nuts & Seeds,50
+1573,chickpeas,Other,50
+1574,cayenne powder,Other,50
+1575,angel hair pasta,Other,50
+1576,sweet red pepper,Vegetables,20
+1577,crusty bread,Other,50
+1578,savoy cabbage,Other,50
+1579,uncooked rice,Grains & Legumes,120
+1580,dry yeast,Baking Essentials,300
+1581,italian sausages,Herbs & Spices,5
+1582,polenta,Other,50
+1583,rag%c3%ba%c2%ae pasta sauce,Condiments,15
+1584,fresh mozzarella cheese,Dairy,100
+1585,frozen orange juice concentrate,Fruits,60
+1586,mandarin orange,Fruits,60
+1587,9-inch graham cracker crust,Other,50
+1588,bacon bits,Other,300
+1589,dried carrots,Vegetables,20
+1590,hijiki seaweed,Seafood,180
+1591,mixed herbs,Herbs & Spices,5
+1592,idaho potatoes,Vegetables,20
+1593,kraft 100%25 parmesan cheese,Dairy,100
+1594,fresh asparagus,Other,50
+1595,broth,Other,50
+1596,croutons,Other,50
+1597,fajita seasoning mix,Other,50
+1598,lean ground turkey,Other,50
+1599,pineapple chunk,Fruits,60
+1600,green mangoes,Fruits,60
+1601,greek oregano,Herbs & Spices,5
+1602,i can%27t believe it%27s not butter%c2%ae spread,Dairy,100
+1603,splenda sugar blend for baking,Baking Essentials,400
+1604,turkey bacon,Other,300
+1605,baby spinach leaves,Vegetables,20
+1606,english cucumbers,Other,50
+1607,heirloom tomato,Vegetables,20
+1608,artichokes,Other,50
+1609,condensed golden mushroom soup,Other,50
+1610,crushed pineapple with juice,Fruits,60
+1611,vanilla wafer crumbs,Other,50
+1612,table cream,Other,50
+1613,irish whiskey,Other,50
+1614,dark cocoa,Other,50
+1615,orange blossom water,Fruits,60
+1616,fresh figs,Other,50
+1617,nutritional yeast,Nuts & Seeds,50
+1618,tofu,Other,50
+1619,almond milk,Dairy,100
+1620,chia seeds,Nuts & Seeds,50
+1621,black-eyed peas,Other,50
+1622,sweet corn,Other,50
+1623,avocados,Other,50
+1624,red chili pepper flakes,Vegetables,20
+1625,feta,Other,50
+1626,dry tarragon,Other,50
+1627,phyllo dough,Other,50
+1628,self-rising flour,Baking Essentials,400
+1629,chicken stock cubes,Meat & Poultry,200
+1630,barley,Grains & Legumes,120
+1631,refried beans with jalapeno,Grains & Legumes,120
+1632,dry basil,Herbs & Spices,5
+1633,crusty italian bread,Other,50
+1634,chicken parts,Meat & Poultry,200
+1635,apricot preserves,Other,50
+1636,vanilla wafers,Other,50
+1637,baharat,Other,50
+1638,discos,Other,50
+1639,mixed baby greens,Other,50
+1640,duck legs,Other,50
+1641,cane syrup,Other,50
+1642,liquid smoke flavoring,Other,50
+1643,pecan pieces,Nuts & Seeds,50
+1644,beef gravy,Meat & Poultry,200
+1645,foie gras,Other,50
+1646,chard leaves,Other,50
+1647,soymilk,Dairy,100
+1648,potato starch,Vegetables,20
+1649,raw cashews,Nuts & Seeds,50
+1650,flavoring,Other,50
+1651,raw sugar,Baking Essentials,400
+1652,taco shell,Other,50
+1653,creamy salsa,Other,50
+1654,fine salt,Other,50
+1655,caramel,Other,50
+1656,paint powder,Other,50
+1657,skim evaporated milk,Dairy,100
+1658,phyllo pastry,Other,50
+1659,sesame,Other,50
+1660,pork fillets,Meat & Poultry,200
+1661,sage leaves,Herbs & Spices,5
+1662,meatless spaghetti sauce,Condiments,15
+1663,1%25 fat cottage cheese,Dairy,100
+1664,fava beans,Grains & Legumes,120
+1665,artichoke bottoms,Other,50
+1666,coarse black pepper,Vegetables,20
+1667,pita bread,Other,50
+1668,whole wheat lasagna noodles,Grains & Legumes,120
+1669,fat-free cottage cheese,Dairy,100
+1670,fat-free cheddar cheese,Dairy,100
+1671,italian spices,Herbs & Spices,5
+1672,paper,Other,50
+1673,cloth,Other,50
+1674,sake,Other,50
+1675,russet baking potatoes,Vegetables,20
+1676,poppy seed dressing,Nuts & Seeds,50
+1677,cube steaks,Other,50
+1678,seasoned flour,Baking Essentials,300
+1679,kitchen bouquet,Other,50
+1680,red peppers,Vegetables,20
+1681,light muscovado sugar,Baking Essentials,400
+1682,brown gravy mix,Other,50
+1683,fat-free parmesan cheese,Dairy,100
+1684,pancake mix,Other,50
+1685,cream sherry,Other,50
+1686,shell macaroni,Other,50
+1687,baby shrimp,Other,50
+1688,honey mustard,Condiments,15
+1689,waffles,Other,50
+1690,smoked turkey,Other,50
+1691,grape juice,Fruits,60
+1692,dried currant,Other,50
+1693,fig,Other,50
+1694,candied pineapple,Fruits,60
+1695,candied cherry,Other,50
+1696,citron,Other,50
+1697,green glazed cherries,Other,50
+1698,chocolate-flavor crisp rice cereal,Grains & Legumes,120
+1699,reduced fat margarine,Other,50
+1700,reduced-fat peanut butter,Dairy,100
+1701,large marshmallows,Other,50
+1702,semisweet chocolate morsel,Other,50
+1703,fiber one cereal,Other,50
+1704,bermuda onion,Vegetables,20
+1705,pickling spices,Herbs & Spices,5
+1706,bacon drippings,Other,250
+1707,ground cardamom,Other,50
+1708,caramels,Other,50
+1709,miniature semisweet chocolate chips,Other,50
+1710,chocolate-covered toffee bits,Other,50
+1711,peach preserves,Other,50
+1712,baby portabella mushrooms,Other,50
+1713,fresh garlic clove,Vegetables,20
+1714,herbes de provence,Herbs & Spices,5
+1715,collard greens,Fats & Oils,10
+1716,boneless pork shoulder,Meat & Poultry,200
+1717,fresh jalapeno pepper,Vegetables,20
+1718,condensed chicken broth,Meat & Poultry,200
+1719,hominy,Other,50
+1720,pickled jalapeno pepper,Vegetables,20
+1721,mini marshmallows,Other,50
+1722,corn chex,Other,50
+1723,hot italian sausage,Herbs & Spices,5
+1724,brussels sprouts,Other,50
+1725,salted cashews,Nuts & Seeds,50
+1726,soya sauce,Condiments,15
+1727,velveeta cheese,Dairy,100
+1728,yoghurt,Other,50
+1729,dill,Other,50
+1730,biscuit mix,Other,50
+1731,sugar substitute,Baking Essentials,350
+1732,spinach leaves,Vegetables,20
+1733,vegetarian blue cheese,Dairy,100
+1734,cantaloupe,Other,50
+1735,halva,Other,50
+1736,rotel tomatoes,Vegetables,20
+1737,marshmallow creme,Other,50
+1738,chocolate syrup,Other,50
+1739,whole wheat tortillas,Grains & Legumes,120
+1740,endive,Other,50
+1741,tuna in olive oil,Fats & Oils,400
+1742,cooked short-grain brown rice,Grains & Legumes,120
+1743,oil-cured black olive,Fats & Oils,130
+1744,lemon thyme,Herbs & Spices,5
+1745,radicchio,Other,50
+1746,herb and garlic flavored light chunk tuna,Vegetables,20
+1747,citrus-infused vodka,Other,50
+1748,apple schnapps,Fruits,60
+1749,watermelon juice,Other,50
+1750,semisweet baking chocolate,Other,50
+1751,bratwurst,Other,50
+1752,light beer,Other,50
+1753,boneless pork loin,Meat & Poultry,200
+1754,garlic and basil whole wheat couscous,Vegetables,20
+1755,lemon pepper,Vegetables,20
+1756,garlic and herb seasoning,Vegetables,20
+1757,kitchen twine,Other,50
+1758,crystallized ginger,Other,50
+1759,cake-and-pastry flour,Baking Essentials,400
+1760,bisquick reduced-fat baking mix,Other,50
+1761,frozen raspberries,Other,50
+1762,kale,Other,50
+1763,instant coffee,Other,50
+1764,coffee creamer,Other,50
+1765,hard candies,Other,50
+1766,peppermint candies,Vegetables,20
+1767,instant pistachio pudding mix,Other,50
+1768,lingonberry,Fruits,60
+1769,red lentils,Grains & Legumes,120
+1770,greens,Other,50
+1771,curry leaves,Other,50
+1772,fresh broccoli,Vegetables,20
+1773,fresh udon noodles,Other,50
+1774,low sodium vegetable broth,Other,50
+1775,cream of potato soup,Vegetables,20
+1776,minced garlic cloves,Vegetables,20
+1777,miniature marshmallow,Other,50
+1778,currants,Other,50
+1779,meatballs,Other,50
+1780,chicken legs,Meat & Poultry,200
+1781,pickle juice,Other,50
+1782,light margarine,Other,50
+1783,frozen pearl onions,Vegetables,20
+1784,salted butter,Dairy,100
+1785,sugar-free vanilla ice cream,Baking Essentials,100
+1786,fat-free sugar-free chocolate syrup,Baking Essentials,50
+1787,frangelico,Other,50
+1788,whole grain mustard,Condiments,15
+1789,champagne vinegar,Condiments,15
+1790,fast rising yeast,Baking Essentials,400
+1791,fresh coriander,Other,50
+1792,black bean sauce,Grains & Legumes,120
+1793,breakfast sausage,Herbs & Spices,5
+1794,vanilla powder,Other,50
+1795,gelatin,Other,50
+1796,powdered saffron,Other,50
+1797,manchego cheese,Dairy,100
+1798,tri-color spiral pasta,Other,50
+1799,flavored oil,Fats & Oils,150
+1800,frying chickens,Meat & Poultry,200
+1801,cracker barrel cheese,Dairy,100
+1802,hellmann%27s mayonnaise,Condiments,15
+1803,raspberry jam,Fruits,60
+1804,cracker,Other,50
+1805,ground chuck,Other,50
+1806,colby cheese,Dairy,100
+1807,frozen butternut squash,Dairy,100
+1808,whole chickens,Meat & Poultry,200
+1809,sherry wine,Other,50
+1810,medium egg noodles,Eggs,70
+1811,turnip greens,Other,50
+1812,mustard greens,Condiments,15
+1813,split peas,Other,50
+1814,sweet potato,Vegetables,20
+1815,dark unsweetened cocoa,Other,50
+1816,wood chips,Other,50
+1817,chanterelle mushrooms,Other,50
+1818,frozen broccoli spears,Vegetables,20
+1819,herb-seasoned stuffing cubes,Herbs & Spices,5
+1820,fresh apricots,Other,50
+1821,seltzer water,Other,50
+1822,sugar-free syrup,Baking Essentials,400
+1823,dried apple,Fruits,60
+1824,steaks,Other,50
+1825,strawberry-flavor nestle nesquik powder,Fruits,60
+1826,jicama,Other,50
+1827,new mexico chile powder,Other,50
+1828,corn tortilla strips,Other,50
+1829,white rice,Grains & Legumes,120
+1830,peppermint schnapps,Vegetables,20
+1831,cheddar cheese soup,Dairy,100
+1832,graham wafer crumbs,Other,50
+1833,pepperoni,Vegetables,20
+1834,refrigerated pie crusts,Other,50
+1835,condensed bean with bacon soup,Grains & Legumes,250
+1836,chunky picante sauce,Condiments,15
+1837,pastry for double-crust pie,Other,50
+1838,garlic-flavored croutons,Vegetables,20
+1839,small shrimp,Other,300
+1840,crawfish tail,Seafood,180
+1841,parsley sprig,Herbs & Spices,5
+1842,ground fenugreek,Other,50
+1843,amchur powder,Other,50
+1844,dried curry leaves,Other,50
+1845,black mustard seeds,Nuts & Seeds,50
+1846,fenugreek seeds,Nuts & Seeds,50
+1847,tahini,Other,50
+1848,sparkling apple cider,Fruits,60
+1849,mineral water,Other,50
+1850,creme de cassis,Other,50
+1851,powdered ginger,Other,50
+1852,toasted sesame oil,Fats & Oils,150
+1853,kasuri methi,Other,50
+1854,mint extract,Other,50
+1855,long-grain rice,Grains & Legumes,120
+1856,hazelnuts,Nuts & Seeds,80
+1857,dark chocolate chips,Other,50
+1858,yukon gold potatoes,Vegetables,20
+1859,onion flakes,Vegetables,20
+1860,season salt,Other,50
+1861,hot dog,Other,400
+1862,beef and cheddar sausages,Meat & Poultry,200
+1863,lean stew meat,Other,300
+1864,pearl tapioca,Other,120
+1865,raspberries,Other,50
+1866,semisweet chocolate chunks,Other,120
+1867,andouille sausages,Herbs & Spices,500
+1868,nori,Other,50
+1869,braggs liquid aminos,Other,50
+1870,self-rising cornmeal mix,Other,50
+1871,turkey broth,Other,50
+1872,buttery crackers,Dairy,100
+1873,cracked pepper,Vegetables,20
+1874,butter lettuce,Dairy,100
+1875,sultana raisins,Other,50
+1876,cheddar bratwursts,Other,50
+1877,red hot sauce,Condiments,15
+1878,chuck steak,Other,300
+1879,sourdough starter,Other,50
+1880,whole wheat bread flour,Grains & Legumes,120
+1881,seven-grain cereal,Other,50
+1882,sunflower oil,Fats & Oils,130
+1883,english muffin,Other,50
+1884,smoked turkey breast,Other,50
+1885,agave nectar,Other,50
+1886,triple sec,Other,50
+1887,cauliflower florets,Other,50
+1888,35%25 cream,Other,50
+1889,milk chocolate,Dairy,200
+1890,vidalia onions,Vegetables,20
+1891,banana peppers,Vegetables,20
+1892,mixed italian herbs,Herbs & Spices,5
+1893,caramel flavoring,Other,50
+1894,sweet butter,Dairy,100
+1895,psyllium,Other,50
+1896,protein powder,Other,50
+1897,full cream milk powder,Dairy,100
+1898,frozen green beans,Grains & Legumes,120
+1899,fat-free evaporated milk,Dairy,100
+1900,low-fat cream of mushroom soup,Other,50
+1901,tuna in water,Other,400
+1902,mutton rib,Other,350
+1903,mutton bones with marrow,Other,200
+1904,whole allspice,Herbs & Spices,5
+1905,whole green chili,Other,50
+1906,low-fat sour cream,Other,50
+1907,beef short ribs,Meat & Poultry,200
+1908,chianti wine,Other,50
+1909,yellow miso,Other,50
+1910,dark sesame oil,Fats & Oils,170
+1911,japanese eggplants,Eggs,70
+1912,french vanilla instant pudding,Other,50
+1913,kiwi fruits,Other,50
+1914,quick-cooking tapioca,Other,50
+1915,wheat flakes cereal,Grains & Legumes,120
+1916,ground flax seeds,Nuts & Seeds,50
+1917,sweet %27n low,Other,50
+1918,sugar-free chocolate chips,Baking Essentials,400
+1919,pecan halves,Nuts & Seeds,50
+1920,rump steak,Other,50
+1921,diced onions,Vegetables,20
+1922,french onion soup,Vegetables,20
+1923,herbs,Herbs & Spices,5
+1924,beef,Meat & Poultry,250
+1925,bamboo skewer,Other,50
+1926,green sweet pepper,Vegetables,20
+1927,dark corn syrup,Other,50
+1928,pie shell,Other,50
+1929,walnut pieces,Nuts & Seeds,50
+1930,mushroom gravy mix,Other,50
+1931,poblano peppers,Vegetables,20
+1932,roasted deli chicken,Meat & Poultry,200
+1933,acorn squash,Other,50
+1934,ground mace,Other,50
+1935,creme fraiche,Other,50
+1936,self raising flour,Baking Essentials,400
+1937,mixed fruit,Other,50
+1938,mango puree,Fruits,60
+1939,puff pastry sheets,Other,50
+1940,italian salad dressing,Other,50
+1941,frozen sliced peaches,Other,50
+1942,chicken strips,Meat & Poultry,200
+1943,catfish,Seafood,180
+1944,dill sprigs,Other,50
+1945,sweet and spicy barbecue sauce,Condiments,15
+1946,lawrys seasoned garlic salt,Vegetables,20
+1947,mesquite liquid smoke,Other,50
+1948,hickory liquid smoke,Other,50
+1949,adobo sauce,Condiments,15
+1950,beef consomme soup,Meat & Poultry,200
+1951,almond oil,Nuts & Seeds,50
+1952,cremini mushroom,Other,50
+1953,kosher salt %26 freshly ground black pepper,Vegetables,20
+1954,flounder fillets,Other,50
+1955,cereal,Other,50
+1956,baby food,Other,50
+1957,simply potatoes traditional mashed potatoes,Vegetables,20
+1958,beef base,Meat & Poultry,200
+1959,boneless ham,Other,50
+1960,bartlett pears,Other,50
+1961,fig preserves,Other,50
+1962,fresh pumpkin puree,Other,50
+1963,light mayonnaise,Condiments,15
+1964,sultana raisin,Other,50
+1965,jalapeno chile,Other,50
+1966,hot paprika,Herbs & Spices,5
+1967,curry,Other,50
+1968,tzatziki,Other,50
+1969,sun-dried tomato vinaigrette dressing,Vegetables,20
+1970,toast,Other,50
+1971,country gravy mix,Other,50
+1972,unsalted shelled pistachios,Other,50
+1973,dried onion flakes,Vegetables,20
+1974,firm silken tofu,Other,50
+1975,red grapes,Fruits,60
+1976,dry roasted salted peanut,Nuts & Seeds,50
+1977,smoked pork sausage,Meat & Poultry,200
+1978,condensed mushroom soup,Other,50
+1979,cheese with green chili peppers,Dairy,100
+1980,pollock,Other,50
+1981,red lentil,Grains & Legumes,120
+1982,juniper berries,Other,50
+1983,unsweetened apple juice,Fruits,60
+1984,toor dal,Other,50
+1985,jaggery,Other,50
+1986,curry leaf,Other,50
